@@ -1,0 +1,1059 @@
+# Enchantments
+enchantment.potency=Potencja
+enchantment.frugal=Skromność
+enchantment.charging=Ładowanie
+enchantment.wandfortune=Skarb
+enchantment.haste=Pośpiech
+enchantment.repair=Naprawa
+#
+#Potions
+potion.fluxtaint=Świetlna Skaza
+potion.soulshatter=Strzaskanie Duszy
+#
+# Entities
+entity.ThaumSlime.name=Thaumic Slime
+entity.Dart.name=Rzucający Golem
+entity.FrostShard.name=Odłamek Mrozu
+entity.Firebat.name=Ognisty Nietoperz
+entity.Wisp.name=Ognik
+entity.Alumentum.name=Alumentum
+entity.GiantBrainyZombie.name=Wściekły Zombie
+entity.BrainyZombie.name=Zły Zombie
+entity.FollowItem.name=Kolejny Przedmiot
+entity.SpecialItem.name=Magiczny Przedmiot
+entity.FallingTaint.name=Plugawa Skorupa 
+entity.Thaumcraft.AspectOrb.name=Kula Aspektu
+entity.TaintSpider.name=Plugawa Glista
+entity.Taintacle.name=Taintacle
+entity.TaintacleTiny.name=Plugawa Macka
+entity.TaintSpore.name=Plugawy Zarodnik
+entity.TaintSwarmer.name=Plógawy Rój Zarodków
+entity.TaintSwarm.name=Plugawy Rój
+entity.TaintedVillager.name=Plugawy Wieśniak
+entity.TaintedChicken.name=Plugawa Kura
+entity.TaintedPig.name=Plugawa Świnia
+entity.TaintedSheep.name=Plugawa Owca
+entity.TaintedCow.name=Plugawa Krowa
+entity.TaintedCreeper.name=Plugawy Creeper
+entity.Pech.name=Pech
+entity.Pech.1.name=Mag Pechów
+entity.Pech.2.name=Stalker Pechów
+entity.TravelingTrunk.name=Podróżujący Bagaż
+entity.trunk.guiname=Bagaż
+entity.trunk.move=Bagaż teraz podąża za tobą
+entity.trunk.stay=Bagaż Stoi teraz w miejscu
+#
+# Blocks
+tile.blockAiry.0.name=Węzeł Aury
+tile.blockAiry.1.name=Nitor
+tile.blockAiry.2.name=Promień Światła
+tile.blockAiry.3.name=Promień Światła
+tile.blockAiry.5.name=Węzeł Aury
+tile.blockHole.name=Pusta Przestrzeń
+tile.blockSecure.name=Oznaczony Kamień
+tile.blockCustomOre.0.name=Ruda Rtęci
+tile.blockCustomOre.1.name=Kamień Powietrza
+tile.blockCustomOre.2.name=Kamień Ognia
+tile.blockCustomOre.3.name=Kamień Wody
+tile.blockCustomOre.4.name=Kamień Ziemi
+tile.blockCustomOre.5.name=Kamień Porządku
+tile.blockCustomOre.6.name=Kamień Entropii
+tile.blockCustomOre.7.name=Ruda Bursztynu
+tile.blockCosmeticOpaque.0.name=Blok Bursztynu
+tile.blockCosmeticOpaque.1.name=Bursztynowe Cegły
+tile.blockCosmeticOpaque.2.name=Znaczone Szkło
+tile.blockCosmeticSolid.0.name=Obsydianowy Totem
+tile.blockCosmeticSolid.1.name=Obsydianowa Płyta
+tile.blockCosmeticSolid.2.name=Kostka Brukowa Podróży
+tile.blockCosmeticSolid.3.name=Odwrócona Kostka Brukowa
+tile.blockCosmeticSolid.4.name=Blok Thaumium
+tile.blockCosmeticSolid.5.name=Blok Łoju
+tile.blockCosmeticSolid.6.name=Astralny Kamień
+tile.blockCosmeticSolid.7.name=Astralne Kamienne Cegły
+tile.blockCosmeticSolid.8.name=Naładowany Obsydianowy Totem
+tile.blockCustomPlant.0.name=Sadzonka Wielkiego Drzewa
+tile.blockCustomPlant.1.name=Sadzonka Srebrnego Drzewa
+tile.blockCustomPlant.2.name=Migoczący Liść
+tile.blockCustomPlant.3.name=Perła Popiołu
+tile.blockCustomPlant.4.name=Eteryczny Kwiat
+tile.blockMetalDevice.0.name=Tygiel
+tile.blockMetalDevice.1.name=Astralny Alembik
+tile.alembic.msg.1=Alembik jest pusty
+tile.alembic.msg.2=Alembik jest prawie pusty
+tile.alembic.msg.3=Alembik jest w połowie pełny
+tile.alembic.msg.4=Alembik jest prawie pełny
+tile.alembic.msg.5=Alembik jest pełny
+tile.blockMetalDevice.5.name=Krata na przedmioty
+tile.blockMetalDevice.6.name=Zamknięta krata na przedmioty
+tile.blockMetalDevice.7.name=Astralna Lampa
+tile.blockMetalDevice.8.name=Lampa Wzrostu
+tile.blockMagicalLog.greatwood.name=Drewno Wielkiego Drzewa
+tile.blockMagicalLog.silverwood.name=Drewno Srebrnego Drzewa
+tile.blockMagicalLeaves.greatwood.name=Liście Wielkiego Drzewa
+tile.blockMagicalLeaves.silverwood.name=Liście Srebrnego Drzewa
+tile.blockCandle.0.name=Biała Łojowa Świeczka
+tile.blockCandle.1.name=Pomarańczowa Łojowa Świeczka
+tile.blockCandle.2.name=Fioletowa Łojowa Świeczka
+tile.blockCandle.3.name=Błękitna Łojowa Świeczka
+tile.blockCandle.4.name=Żółta Łojowa Świeczka
+tile.blockCandle.5.name=Limonkowa Łojowa Świeczka
+tile.blockCandle.6.name=Różowa Łojowa Świeczka
+tile.blockCandle.7.name=Szara Łojowa Świeczka
+tile.blockCandle.8.name=Jasnoszara Łojowa Świeczka
+tile.blockCandle.9.name=Turkusowa Łojowa Świeczka
+tile.blockCandle.10.name=Purpurowa Łojowa Świeczka
+tile.blockCandle.11.name=Niebieska Łojowa Świeczka
+tile.blockCandle.12.name=Brązowa Łojowa Świeczka
+tile.blockCandle.13.name=Zielona Łojowa Świeczka
+tile.blockCandle.14.name=Czerwona Łojowa Świeczka
+tile.blockCandle.15.name=Czarna Łojowa Świeczka
+tile.blockWooden.name=Astralny blok Drewna
+tile.blockWoodenDevice.0.name=Astralny Miech
+tile.blockWoodenDevice.1.name=Astralne Ucho
+tile.blockWoodenDevice.2.name=Astralna Płyta Naciskowa
+tile.blockWoodenDevice.4.name=Podstawa Astralnego Laseru
+tile.blockWoodenDevice.5.name=Astrany Laser
+tile.blockWoodenDevice.6.name=Deski z Wielkiego Drzewa
+tile.blockWoodenDevice.7.name=Deski z Srebrnego Drzewa
+tile.blockJar.0.name=Oznaczony Słój
+tile.blockJar.1.name=Mózg W Słoju
+tile.blockJar.2.name=Węzeł W Słoju
+tile.blockJar.3.name=Słój Próżniowy
+tile.blockTable.0.name=Stół
+tile.blockTable.1.name=Stół
+tile.blockTable.research.name=Stół Badawczy
+tile.blockTable.14.name=Stół Dekonstrukcyjny
+tile.blockTable.15.name=Astralny Stół Warsztatowy
+tile.researchtable.noink=Zabrakło Atramentu
+tile.researchtable.nomove=Aktywnych run nie można przenosić
+tile.blockChestHungry.name=Głodna Skrzynia
+tile.blockArcaneDoor.name=Astralne Drzwi
+tile.blockLifter.name=Astralny Lewitator
+tile.blockCrystal.0.name=Kryształ Powietrza
+tile.blockCrystal.1.name=Kryształ Ognia
+tile.blockCrystal.2.name=Kryształ Wody
+tile.blockCrystal.3.name=Kryształ Ziemi
+tile.blockCrystal.4.name=Kryształ Porządku
+tile.blockCrystal.5.name=Kryształ Entropii
+tile.blockCrystal.6.name=Zmiksowany Kryształ
+tile.blockMirror.name=Magiczne Lustro
+tile.blockTaint.0.name=Skażona Skorupa
+tile.blockTaint.1.name=Plugawa Gleba
+tile.blockTaint.2.name=Blok Mięsa
+tile.blockTaintFibres.0.name=Plugawe Włókno
+tile.blockTaintFibres.1.name=Plugawa Trawa
+tile.blockTaintFibres.2.name=Plugawa Roślina
+tile.blockTaintFibres.3.name=Zarodek Łodygi
+tile.blockTaintFibres.4.name=Dojrzały Zarodek Łodygi
+tile.blockFluxGoo.name=Świetlny Szlam
+tile.blockFluxGas.name=Świetlny Gaz
+tile.blockStoneDevice.0.name=Piec Alchemiczny
+tile.blockStoneDevice.1.name=Astralny Piedestał
+tile.blockStoneDevice.2.name=Matryca runiczna
+tile.blockStoneDevice.3.name=Filar Infuzyjny
+tile.blockStoneDevice.4.name=Filar Infuzyjny
+tile.blockStoneDevice.5.name=Piedestał Ładowania Różdżki
+tile.blockStoneDevice.6.name=Filar Infuzyjny
+tile.blockStoneDevice.7.name=Filar Infuzyjny
+tile.blockStoneDevice.8.name=Soczewka Ładowania Różdżki
+tile.blockTube.0.name=Rura Esencji
+tile.blockTube.1.name=Zawór Esencji
+tile.blockTube.2.name=Wirówka Alchemiczna
+tile.blockTube.3.name=Rura Filtrująca Esencje
+container.alchemyfurnace=Alchemiczny Piec
+tile.blockArcaneFurnace.name=Piekielny Piec
+#
+# Items
+item.GolemBell.name=Dzwonek Golemancjera
+item.HoverHarness.name=Thaumostatyczna Uprząż
+item.Focus.cost1=Vis na uderzenie
+item.Focus.cost2=Vis na tick
+item.FocusPouch.name=Woreczek na soczewki
+item.FocusFire.name=Soczewka: Ogień
+item.FocusHellbat.name=Soczewka: Dziewięć Piekieł
+item.FocusShock.name=Soczewka: Szok
+item.FocusTrade.name=Soczewka: Równość Handlowa
+item.FocusFrost.name=Soczewka: Zimno
+item.FocusExcavation.name=Soczewka: Wykop
+item.FocusPortableHole.name=Soczewka: Przenośny Portal
+item.FocusPech.name=Soczewka: Klątwa Pechów
+item.WandCap.0.name=Żelazna Nasadka
+item.WandCap.1.name=Złota Nasadka
+item.WandCap.2.name=Naładowana Nasadka Z Thaumium
+item.WandCap.3.name=Miedziana Nasadka
+item.WandCap.4.name=Naładowana Srebrna Nasadka
+item.WandCap.5.name=Obojętna Srebrna Nasadka
+item.WandCap.6.name=Obojętna Nasadka z Thaumium 
+item.WandRod.0.name=Laska Z Wielkiego Drzewa
+item.WandRod.1.name=Obsydianowa Laska
+item.WandRod.2.name=Laska Z Srebrnego Drzewa
+item.WandRod.3.name=Lodowa Laska
+item.WandRod.4.name=Kwarcowa Laska
+item.WandRod.5.name=Trzcinowa Laska
+item.WandRod.6.name=Laska Z Pałki Blaze'a
+item.WandRod.7.name=Kościana Laska
+item.Wand.name=Różdżka
+item.Wand.wood.rod=Drewniana
+item.Wand.greatwood.rod=Z Wielkiego Drzewa
+item.Wand.silverwood.rod=Z Srebrnego Drzewa
+item.Wand.obsidian.rod=Obsydianowa
+item.Wand.blaze.rod=Blaze'owa
+item.Wand.ice.rod=Lodowa
+item.Wand.bone.rod=Kościana
+item.Wand.reed.rod=Trzcinowa
+item.Wand.quartz.rod=Kwarcowa
+item.Wand.iron.cap=Żelazna
+item.Wand.gold.cap=Złota
+item.Wand.copper.cap=Brązowa
+item.Wand.silver.cap=Srebrna
+item.Wand.thaumium.cap=Thaumiumowa
+item.ItemResource.0.name=Alumentum
+item.ItemResource.1.name=Nitor
+item.ItemResource.2.name=Sztabka Thaumium
+item.ItemResource.3.name=Rtęć
+item.ItemResource.4.name=Magiczny Łój
+item.ItemResource.5.name=Mózg Zombie
+item.ItemResource.6.name=Bursztym
+item.ItemResource.7.name=Zaczarowana Tkanina
+item.ItemResource.8.name=Filtr Vis
+item.ItemResource.9.name=Fragment Wiedzy
+item.ItemResource.10.name=Lustrzane Szkło
+item.ItemResource.11.name=Blugawy Szlam
+item.ItemResource.12.name=Plugawa Wić
+item.ItemResource.13.name=Etykieta
+item.ItemResource.14.name=Salis Mundus 
+item.ItemShard.0.name=Kryształ Powietrza
+item.ItemShard.1.name=Kryształ Ognia
+item.ItemShard.2.name=Kryształ Wody
+item.ItemShard.3.name=Kryształ Ziemi
+item.ItemShard.4.name=Kryształ Porządku
+item.ItemShard.5.name=Kryształ Entropii
+item.ItemArcaneDoor.name=Astralne Drzwi
+item.ItemNugget.0.name=Samorodek Żelaza
+item.ItemNugget.1.name=Samorodek Miedzi
+item.ItemNugget.2.name=Samorodek Cyny
+item.ItemNugget.3.name=Samorodek Srebra
+item.ItemNugget.4.name=Samorodek Ołowiu
+item.ItemNugget.5.name=Kropla Rtęci
+item.ItemNugget.6.name=Samorodek Thaumium
+item.ItemNugget.16.name=Rodzima Ruda Żelaza
+item.ItemNugget.17.name=Rodzima Ruda Miedzi
+item.ItemNugget.18.name=Rodzima Ruda Cyny
+item.ItemNugget.19.name=Rodzima Ruda Srebra
+item.ItemNugget.20.name=Rodzima Ruda Ołowiu
+item.ItemNugget.21.name=Rodzima Ruda Rtęci   
+item.ItemNugget.31.name=Rodzima Ruda Złota
+item.BootsTraveller.name=Buty Podróznika
+item.ItemNuggetChicken.name=Samorodek Kurczaka
+item.ItemNuggetBeef.name=Wołowy Samorodek
+item.ItemNuggetPork.name=Wieprzowy Samorodek
+item.ItemNuggetFish.name=Rybny Samorodek
+item.BlockJarFilledItem.name=Słoik Esencji
+item.BlockJarFilledItem.void.name=Próżniowy Słoik Enencji
+item.BlockJarNodeItem.name=Węzeł W Słoiku
+item.TripleMeatTreat.name=Potrójna Mięsna Uczta
+item.ItemShovelElemental.name=Łopata Przekopywacza
+item.ItemPickaxeElemental.name=Kilof Rdzenia
+item.ItemAxeElemental.name=Siekiera Parowa
+item.ItemHoeElemental.name=Motyka Wzrostu
+item.ItemSwordElemental.name=Miecz Zefiru
+item.ItemChestplateRobe.name=Szata Thaumaturga
+item.ItemLeggingsRobe.name=Spodnie Thaumaturga
+item.ItemBootsRobe.name=Buty Thaumaturga
+item.ArcaneDoorKey.0.name=Żelazny Astralny Klucz
+item.ArcaneDoorKey.1.name=Złoty Astralny Klucz
+item.HandMirror.name=Magiczne Lusterko
+item.ItemInkwell.name=Narzędzia Do Pisania
+item.ItemThaumometer.name=Thaumometer
+item.ItemThaumonomicon.name=Thaumonomicon
+item.ItemGoggles.name=Okulary Ujawniania
+item.ItemHelmetThaumium.name=Hełm Z Thaumium
+item.ItemChestplateThaumium.name=Napierśnik Z Thaumium
+item.ItemLeggingsThaumium.name=Nogawice Z Thaumium
+item.ItemBootsThaumium.name=Buty Z Thaumium
+item.ItemShovelThaumium.name=Łopata Z Thaumium
+item.ItemAxeThaumium.name=Siekiera Z Thaumium
+item.ItemSwordThaumium.name=Miecz Z Thaumium
+item.ItemPickThaumium.name=Kilof Z Thaumium
+item.ItemHoeThaumium.name=Motyka Z Thaumium
+item.researchnotes.name=Notatki Badawcze
+item.discovery.name=Odkrycie
+item.ItemWispEssence.name=Eteryczna Esencja
+item.ItemEssence.0.name=Szklany Flakon
+item.ItemEssence.1.name=Flakon Z Esencją
+item.ItemGolemCore.name=Rdzeń Animacji Golemów
+item.ItemGolemCore.0.name=Napełnij
+item.ItemGolemCore.1.name=Opróżnij
+item.ItemGolemCore.2.name=Zbierz
+item.ItemGolemCore.3.name=Żniwo
+item.ItemGolemCore.4.name=Broń
+item.ItemGolemCore.5.name=Przelej
+item.ItemGolemCore.6.name=Alchemia
+item.ItemGolemCore.7.name=Rąb
+item.ItemGolemCore.8.name=Użyj
+item.ItemGolemCore.100.name=Czysty
+item.ItemGolemPlacer.0.name=Słomiany Golem
+item.ItemGolemPlacer.1.name=Drewniany Golem
+item.ItemGolemPlacer.2.name=Łojowy Golem
+item.ItemGolemPlacer.3.name=Gliniany Golem
+item.ItemGolemPlacer.4.name=Mięsny Golem
+item.ItemGolemPlacer.5.name=Kamienny Golem
+item.ItemGolemPlacer.6.name=Żelazny Golem
+item.ItemGolemPlacer.7.name=Thaumium Golem
+item.ItemGolemDecoration.name=Akcesorium
+item.ItemGolemDecoration.0.name=Cylinder
+item.ItemGolemDecoration.1.name=Okulary
+item.ItemGolemDecoration.2.name=Muszka
+item.ItemGolemDecoration.3.name=Fez
+item.ItemGolemDecoration.4.name=Wyrzutnia Pocisków
+item.ItemGolemDecoration.5.name=Przyłbica
+item.ItemGolemDecoration.6.name=Żelazna Zbroja
+item.ItemGolemDecoration.7.name=Ręczna Buława
+item.ItemGolemUpgrade.0.name=Ulepszenie Golema: Powietrze
+item.ItemGolemUpgrade.1.name=Ulepszenie Golema: Ziemia
+item.ItemGolemUpgrade.2.name=Ulepszenie Golema: Ogień
+item.ItemGolemUpgrade.3.name=Ulepszenie Golema: Woda
+item.ItemGolemUpgrade.4.name=Ulepszenie Golema: Porządek
+item.ItemGolemUpgrade.5.name=Ulepszenie Golema: Entropia
+item.ItemGolemUpgrade.0.desc=Ulepszona Szybkość
+item.ItemGolemUpgrade.1.desc=Ulepszona Siła
+item.ItemGolemUpgrade.2.desc=Ulepszone Obrażenia
+item.ItemGolemUpgrade.3.desc=Ulepszone Zmysły, Zasięg
+item.ItemGolemUpgrade.4.desc=Ulepszona Ogranizacja, Intelekt
+item.ItemGolemUpgrade.5.desc=Ulepszona Obrona, Rozumowanie
+item.ItemManaBean.name=Fasolka Many
+item.TrunkSpawner.name=Podróżujący Bagaż
+item.TrunkSpawner.text.1=Ten Bagaż Posiada Przedmioty
+
+
+#
+# Fluids
+fluid.fluxGoo=Świetlny Szlam
+#
+# GUI
+golemblurb.0.text=Czego Potrzebujesz Mistrzu?
+golemblurb.1.text=Misrzu, należy usunąć wszystko z tego pojemnika, czy coś konkretnego?
+golemblurb.2.text=Mistrzu, chcesz mi odebrać coś konkretnego czy mam kontynuować zbieranie wszystkiego?
+golemblurb.3.text=??
+golemblurb.4.text=Będę chronić ten obszar, Mistrzu.
+golemblurb.5.text=Będę zebrać wszystkie płyny, lub tylko te, które Określisz? Pokaż mi tylko pojemnik z cieczą i Wykonam Rozkaz!
+golemblurb.6.text=??
+golemblurb.7.text=??
+golemblurb.8.text=Czy chcesz mnie do używania tego elementu na bloku czy tylko na pustym miejscu?
+golemthreat.0.text=Jaki golem powstanie? Nie wiem nic na temat powstania Golemów.
+golemthreat.1.textNiech zgadnę, potrzebujesz mnie do stworzenia czegoś??
+golemthreat.2.text=Mua ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!
+golemthreat.3.text=Nie martw się, ja na pewno niczego nie spiskuje.
+golemthreat.4.text=Dlaczego nie pójdziesz się zdrzemnąć? Wygląda na to że jesteś śpiący. Bardzo Śpiący.
+golemthreat.5.text=Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!
+golemthreat.6.text=*MIŁOŚĆ* nie znaleziona, skazanie na *NIENAWIŚĆ*
+golemthreat.7.text=Tak BArdzo Cię Nienawidze.
+golemthreat.8.text=Giń Worku Mięsa!.
+recipe.return=Powrót
+recipe.clickthrough=Klinkij Aby Zbadać
+recipe.type.workbench=Stół Warsztatowy
+recipe.type.workbenchshapeless=Stół Warsztatowy (Bezkształtny)
+recipe.type.arcane=Astralny Stół Warsztatowy
+recipe.type.crucible=Tygiel
+recipe.type.infusion=Infuzja
+recipe.type.infusionenchantment=Magiczna Infuzja 
+recipe.type.construct=Mysticzny Konstrukt
+#
+# Other
+nodetype.NORMAL.name=Normalny
+nodetype.UNSTABLE.name=Niestabilny
+nodetype.DARK.name=Groźny
+nodetype.PURE.name=Czysty
+nodetype.TAINTED.name=Plugawy
+nodetype.HUNGRY.name=Głodny
+nodemod.BRIGHT.name=Jasny
+nodemod.PALE.name=Blady
+nodemod.FADING.name=Wyblakły
+tc.taint_item_poison=Rozpuszczalnik %s zainfekował cię skazą
+death.attack.taint=%1$s Został Zabity Przez Skaze
+death.attack.taint.player=%1$s Został Zabity Przez Skaze podczas latania %2$s
+death.attack.tentacle=%1$s Został ściśnięty przez %2$s
+death.attack.swarm=%1$s Został porażony przez %2$s
+death.attack.swarm.item=%1$s Został porażony przez %2$s używając %3$s
+tc.handmirrorlinkedto=Związany Z
+tc.handmirrorlinked=Łącze Ustalone.
+tc.handmirrorerror=Cel podróży lustra zaginął lub nie ma go na miejscu. Łącze Zerwane.
+tc.discoveryerror=Nie masz całej wiedzęy niezbędnej do zrozumienia tego.
+tc.discoveryunknown=Nieznana teoria
+tc.discoveryprogress=% Zakończone
+tc.portableholeerror=Przenośny otwór nie jest wystarczająco naładowany aby to zrobić.
+tc.key1=Klucz jest związany z tymi Astralnymi drzwiami.
+tc.key2=Klucz jest związany z tą astralną płytą naciskową
+tc.key3=Teraz możesz otworzyć te drzwi.
+tc.key4=Możesz udzielić dostępu innym.
+tc.key5=Będziesz teraz aktywować tę płytę naciskową, jak gdybyś był jej właścicielem.
+tc.key6=Możesz udzielić dostępu innym i zmienić ustawienia
+tc.key7=Klucz nie jest z tym związany.
+tc.key8=Masz Już Dostęp.
+tc.key9=Ten Klucz udziela dostępu
+tc.key10=Astralne Drzwi w
+tc.key11=Astralna Płyta Naciskowa w
+tc.wandnocharge=Różdżka nie jest wystarczająco naładowana, aby to zrobić.
+tc.wandcharge=Ta różdżka posiada obecnie %s vis
+tc.jaressentia=Posiada %s Esencji
+tc.jarname=Słój
+tc.markedloc=Oznaczone Miejsca
+tc.addaspectdiscovery=Odkryłeś %n!
+tc.addclue=Odkryłeś wskazówkę do nowych badań!
+tc.addcluefail=Odkryłeś wskazówkę, ale jest stracona, ponieważ nie można jej zapisać!
+tc.addaspectpool=Zdobyłeś %s punkt(y) badań dla %n
+tc.unknownobject=Nie można się tego nauczyć
+tc.markerchange=Ustaw kolor znacznika na  %n
+tc.markerchangeany=Ustaw Dowolny Kolor
+tc.researchmissing=Brak wymaganego badania
+tc.visdiscount=Vis Rabat
+tc.inst=Niestabilność: 
+tc.inst.0=§1Stabliny§0
+tc.inst.1=§9Mała§0
+tc.inst.2=§5Umiarkowana§0
+tc.inst.3=§eWysoka§0
+tc.inst.4=§6Bardzo Wysoka§0
+tc.inst.5=§4Niebezpieczna§0
+tc.adv=Zaawansowany
+#
+# Aspects
+tc.aspect.primal=Pierwotny Aspekt
+tc.aspect.unknown=Nieznany Aspekt
+tc.aspect.aer=Powietrze
+tc.aspect.terra=Ziemia
+tc.aspect.ignis=Ogień
+tc.aspect.aqua=Woda
+tc.aspect.ordo=Porzadek, Regularność, Czystość
+tc.aspect.perditio=Entropia, Chaos, Destrukcja
+tc.aspect.vacuos=Próżnia
+tc.aspect.praecantatio=Magia
+tc.aspect.auram=Aura
+tc.aspect.vitium=Skaza
+tc.aspect.lux=Światło
+tc.aspect.potentia=Energia
+tc.aspect.motus=Ruch
+tc.aspect.saxum=Kamień
+tc.aspect.tempestas=Pogoda
+tc.aspect.victus=Życie
+tc.aspect.mortuus=Śmierć
+tc.aspect.volatus=Lot
+tc.aspect.tenebrae=Ciemność
+tc.aspect.granum=Nasiono, Młodość
+tc.aspect.limus=Szlam, Lepki
+tc.aspect.herba=Roślina
+tc.aspect.arbor=Drzewo, Drewno
+tc.aspect.spiritus=Dusza
+tc.aspect.humanus=Człowiek
+tc.aspect.bestia=Bestia
+tc.aspect.exanimis=Nieumarły
+tc.aspect.cognitio=Mózg, Pamięć, Poznawanie
+tc.aspect.sensus=Mądrość
+tc.aspect.messis=Plon 
+tc.aspect.meto=Żniwo
+tc.aspect.metallum=Metal
+tc.aspect.perfodio=Kopalnia
+tc.aspect.instrumentum=Narzędzie, Instrument
+tc.aspect.telum=Weapon, Attak, Szkoda
+tc.aspect.gelum=Lód, Mróz, Zimno
+tc.aspect.vitreus=Cryształ, Szkło, Czystość
+tc.aspect.sano=Zdrowie, Lekarstwo
+tc.aspect.iter=Podróż, Przygoda
+tc.aspect.venenum=Trucizna
+tc.aspect.alienis=Kosmita, Obcy, Eldritch
+tc.aspect.tutamen=Pancerz, Ochrona
+tc.aspect.fames=Głód
+tc.aspect.fabrico=Rzemiosło
+tc.aspect.lucrum=Chciwość, Skąpstwo
+tc.aspect.pannus=Płótno, Materiał, Okrycie
+tc.aspect.machina=Mechanizm, Machina
+tc.aspect.vinculum=Pułapka, Więzienie
+tc.aspect.permutatio=Wymiana, Handel
+tc.aspect.corpus=Mięso
+#  
+# Research categories
+tc.research_category.BASICS=Podstawowe Informacje
+tc.research_category.THAUMATURGY=Thaumaturgia
+tc.research_category.ALCHEMY=Alchemia
+tc.research_category.ARTIFICE=Artefakty
+tc.research_category.GOLEMANCY=Golemancja
+#  
+# Special formatting codes:
+# <BR> or <BR/>         Paragraph break (<BR/> is included for people using XML for their localization)
+# <LINE> or <LINE/>     Insert a fancy linebreak between sections of text.
+# <IMG>...</IMG>  Insert a centered image into text. Parameters are separated by ':' and are:
+#                    - mod resource location name
+#                    - png file location (assumed to be a 256x256 texture, a sub-image will be grabbed from this png as specified below)
+#                    - x location of sub-image in png
+#                    - y location of sub-image in png
+#                    - x size of sub-image (255 if full x size of png must be used)
+#                    - y size of sub-image (255 if full y size of png must be used)
+#                    - scaling - 1.0 for normal 256x256 images, or smaller for proportionately smaller .png files (a 16x16 image will be 0.0625)   
+#               Examples: 
+#                   <IMG>thaumcraft:textures/gui/gui_researchbook.png:24:184:96:4:1.0</IMG>   <-- line break image as used in <LINE> above
+#                   <IMG>thaumcraft:textures/items/alumentum.png:0:0:255:255:0.0625</IMG>     <-- alumentum item icon
+#
+# Research entries
+tc.research_name.RESEARCH=Badania
+tc.research_text.RESEARCH=Jak Odkrywać Przedmioty
+tc.research_page.RESEARCH.1=Zanim będzie można tworzyć większość thaumaturgicznych przedmiotów i bloków, trzeba je najpierw odkryć, jak to zrobić? Ten proces ma kilka kroków:<BR>(1) Odkrywaj świat i analizując bloki, przedmioty i stworzenia przy pomocy §5Thaumometru§0<BR><BR>(2) Zbieraj punkty badawcze w pierwszym etapie i rozszerzaj swoją wiedzę o aspektach na §5Stole Badawczym§0<BR>(3)Korzystaj z aspektów, które znasz i używaj wiedzy praktycznej i szukaj receptur na §5Stole Badawczym§0.<LINE>
+tc.research_page.RESEARCH.2=§l      §nEksploracja§r<BR><BR>Nie można wykonywać badań bez punktów badawczych, a najlepszym sposobem, aby zdobyć punkty badawcze jest poszukiwanie i badanie obiektów na świecie.<BR>Pierwszą rzeczą, którą musisz zrobić to §5Thaumometer§0 (Zobacz Następną Strone).Wskazując §5Thaumometerem§0 na obiekty lub stworzenia i przytrzymanie prawego przycisku myszy rozpoczyna ich analizowanie.Proces nie trwa długo, ale prędkość ruchu jest zmniejszona, gdy on trwa.<BR>Po zakończeniu §5Thaumometer§0 wyświetli jakie aspekty obiekt zawiera. W prawym dolnym rogu ekranu, można również zobaczyć podsumowanie aspektów i punktów badawczych
+tc.research_page.RESEARCH.3=<IMG>thaumcraft:textures/misc/research1.png:0:0:255:208:.5</IMG>Początkowo nie będziesz w stanie zbadać wszystkich obiektów, ponieważ nie odkryłeś ich aspektów składowych. Na przykład, obiekt zawierający aspekt Lux może być zbadany jedynie wtedy, jeśli wcześniej odkryłeś aspekt Lux, lub znasz
+tc.research_page.RESEARCH.4=dwa aspekty, które łączą się aby go utworzyć.<BR>Za pierwszym razem odkrywając aspekt lub badając coś zdobywasz dwa razy większą liczbę punktów badawczych niż normalnie.
+tc.research_page.RESEARCH.5=§l   §nŁączenie Aspektów<BR><BR>Po zebraniu kilku punktów badawczych można próbować połączyć je w złożone aspekty na Stole Badawczym.<BR>Do stworzenia stołu badawczego wystarczy umieścić dwa §5stoły§0 obok siebie i kliknij na nich narzędziami do pisania.Przepis na stoły znajduje się na liście §5Artefaktów§0 w Thaumonomiconie.<BR>Po otwarciu stołu Badawczego zobaczysz interfejs jak na zdjęciu po prawej stronie.<BR>Narzędzia do pisania można włożyć do jednego ze slotów w stole §l1§r.Możesz także umieścić papier w innym slocie §l2§r,Papier nie jest jednak
+tc.research_page.RESEARCH.6=niezbędny do fazy badań.<IMG>thaumcraft:textures/misc/research2.png:0:0:128:83:1</IMG>Powinieneś zobaczyć wszystkie pierwotne aspekty (i ewentualnie jakiś związek aspektów) wymienione w oznaczonym miejscu §l3§r z różnymi ich ilościami.. Po rozpoczeciu gry każdy gracz ma przypisane kilka aspektów pierwotnych z którymi zaczyna.<BR>Jeśli przeanalizowałeś kilka rzeczy
+tc.research_page.RESEARCH.7=thaumometerem to możesz mieć tutaj znaczną liczbę pierwotnych i złożonych aspektów.<LINE>Teraz można rozpocząć łączenie aspektów do bardziej złożonych związków, po prostu klikając na te, które chcesz połączyć. Wybrane aspekty pojawią się w gnieździe §l4§r i kiedy je wybierzesz naciśnij fioletowy przycisk oznaczony nr §l5§r wtedy spróbują się połączyć. Jeśli połączą się zobaczysz, co zostało otrzymane w prawym dolnym rogu i nowy aspekt pojawi się w gnieździe. §l3§r.<BR> Elemeny składowe są wykorzystywane nawet jeśli połączenie nie spowodowuje utworzenia nowego aspektu.
+tc.research_page.RESEARCH.8=§l  §nBadanie Aspektów<IMG>thaumcraft:textures/misc/research2.png:0:88:255:158:.5</IMG>Jeśli masz papier w gniezdzie §l2§r,to można zauważyć, że gdy wybrano tylko jeden aspekt, zielony przycisk (oznaczony §l6§r) zapala się.<BR>Jeśligo naciśniesz to wtedy sprubujesz badać wybrany aspekt.Jeśli uda ci się odkryć coś ciekawego o tym aspekcie to zestaw notatek badawczych pojawi się w
+tc.research_page.RESEARCH.9=sgnieździe §l7§r. Sekcja §l8§r także wyświetli arkusz Badań w oszałamiającej gamie run i symboli, które wygląda mniej więcej tak obrazek na górze poprzedniej strony.<BR>Nie martw się, to nie jest tak trudne, jak to wygląda.<LINE>, Aby zakończyć swoje badania wystarczy połączyć i włączyć wszystkie §5węzły wiedzy§0(na zdjęciu poniżej).<IMG>thaumcraft:textures/gui/guiresearchtable.png:184:224:16:8:1.5</IMG>Węzeł po lewej stronie jest nieaktywny a węzeł po prawej został uruchomiony. Po wszystkim
+tc.research_page.RESEARCH.10=nieaktywne węzły stały się aktywne, badania będą kompletne i notatki badawcze zmienią się w takie, które można użyć, aby zakończyć badania (wystarczy kliknąć prawym przyciskiem myszy, trzymając notatki).<LINE>Połączenie węzłów wiedzy poprzez aktywację run.<IMG>thaumcraft:textures/gui/guiresearchtable.png:184:240:64:16:.75</IMG>Każda runa jest połączony z aspektem, ale początkowo niewiadomo, jaka runa reprezentuje który aspekt. Runa/aspekt jest unikalna dla każdego przedmiotu badań, więc runy, które mogą reprezentować Aer następnym razem mogą reprezetować Terra
+tc.research_page.RESEARCH.11=Nie wszystkie runy są ważne dla bieżącego badania.<BR>Na przykład,Choć może nie być run dla Aer, Terra, Ignes i Aqua na arkuszu badań, tylko Ignes i Terra mogą być na arkuszu Nieprawidłowe runy runy są często nazywane "Czerwonym Śledziem".<BR>Można odkryć, które runy są ważne wybierając aspekt po lewej, i naciskając przycisk "Badania naukowe"(§l6§r).Jeśli wybrany aspekt jest ważny, wszystkie runy związane z tym aspektem staną się aktywne.<BR>Jeśli aspekt wybraniu jest on "czerwonym śledziem" to runy związane z nim nie uruchomią się, ale dwie z nich zostaną usunięte z arkusza całkowicie.
+tc.research_page.RESEARCH.12=Jeżeli zostanie wybrany aspekt który nie jest obecny na stole badawczym nic się nie dzieje.<LINE>Aktywne runy działają jak mosty łączące węzły wiedzy..Świecąca linia energii przepływa z węzła wiedzy do jakiejkolwiek najbliższej aktywnej runy. Musisz stworzyć łańcuch aktywnych runy i węzłów do zakończenia badania.<IMG>thaumcraft:textures/misc/research3.png:0:0:120:95:.75</IMG>
+tc.research_page.RESEARCH.13=Połączenie nie może zostać utworzone, jeśli jest więcej niż jedno miejsce pomiędzy aktywnymi runami lub węzłami.<BR>Tworząc połączenie należy przenieść runy wokół klikając na runy i wybierając cel.<IMG>thaumcraft:textures/misc/research2.png:136:0:102:74:1</IMG>Każda runa może być przeniesiony do 2 miejsc w linii prostej, ale tylko nieaktywne runy mogą być przenoszone - oznacza to, że będziesz musiał włączyć i wyłączyć kilka swoich run
+tc.research_page.RESEARCH.14=aby znaleść poprawne miejsce.<BR>Nieaktywne runy niszczą połączenie, jeśli leżą one na twojej drodze, więc musisz je przenieść.<IMG>thaumcraft:textures/misc/research3.png:128:0:105:111:.75</IMG>Przenoszenie run wykorzystuje niewielką ilość atramentu za każdym razem je przenosisz. <LINE>
+#
+tc.research_name.KNOWFRAG=Fragmenty wiedzy
+tc.research_text.KNOWFRAG=Fragmeny Utraconej Wiedzy
+tc.research_page.KNOWFRAG.1=Kiedy podróżujesz możesz znaleść fragmenty utraconej wiedzy.Same w sobie są warte kilka punktów badawczych ale jeśli zbierzesz wystarczająco dużo razem, możesz zdobyć unikalne badania, które można realizować.
+#
+tc.research_name.ASPECTS=Aspekty Magii
+tc.research_text.ASPECTS=Budulec Magii
+tc.research_page.ASPECTS.1=Każdy element, przedmiot lub istota jest związana z różnych elementów mistycznych znanych jako §5aspekty§0. Aspekty opisują wygląd obiektu w kierunku magicznych elementów. Prosty kamień może posiadać aspekt Saxum natomiast bardziej skomplikowane przedmioty, takie jak drzewa, a nawet stworzenia mogą składać się z wielu różnych aspektów, w różnych ilościach.Istnieje blisko 50 znanych aspektów a nowe są cały czas odkrywane.<LINE>Istnieją dwa główne rodzaje aspektów: §5Pierwotne§0 i §5Mieszane§0.
+tc.research_page.ASPECTS.2=§l§lPierwotne Aspekty§r są najbardziej podstawowym rodzajem aspektów i jest tylko 6 z nich: §6Aer§0 (Powietrze), §2Terra§0 (Ziemia), §cIgnis§0 (Ogień), §3Aqua§0 (Woda), §fOrdo§0 (Porządek), §8Perditio§0 (Entropia).<BR>Są to podstawowe elementy budowy wszystkich innych aspektach.<BR>§lMieszane Aspekty§r są zbudowane z dwóch pierwotnych aspekttów. Najprostsze związki aspektów są wykonane z dwóch pierwotnych aspektów, ale możliwe są niezwykle złożone aspekty związku złożonego z kolejnych warstw prostszych aspektów. <BR> Najprostszym przykładem takiej postaci złożonej, to aspekt Victus (Trwałość) który jest połączeniem Terra i Aqua.
+tc.research_page.ASPECTS.3=Aby zobaczyć, jakie aspekty element posiada, po prostu najedź kursorem na przedmiot i naciśnij Shift, a zobaczysz, jakie aspekty,i ile posiada przedmiot. Najpierw trzeba się przeanalizować przedmiot.Do tego czasu jego aspekty pozostaną nieznane.<LINE>Aspekty które w jakiś sposób oddzielone są od obiektu i są określane jako §5Vis§0 i jest bardzo cenne:. Zarówno jako składnik wytwarzania i jako przedmiot badań magicznych <BR> Vis jest najczęściej związana w różdżkach, ale również można zapisać ją jako magiczny płyn.Vis przechowywana w postaci cieczy jest znana jako §5Esencja§0.
+#
+tc.research_name.NODES=Aury i Węzły
+tc.research_text.NODES=Magia Jest Wszędzie
+tc.research_page.NODES.1=§5Aura§0 jest to pole magicznej energii powszechne na całym świecie.Jej pochodzenie nie jest jasne. Niektórzy uważają, że jest to skumulowana siła życia istot żywych, podczas gdy inni uważają, że aby być jedynie inny rodzaj energii, sączącej się z jakiegoś innego miejsca.Ostatnia teoria wydaje się być najbardziej prawdopodobna, Jako że aura często występuje w węzłach skoncentrowanej energii mistycznej znanej jako §5Węzeł Aury§0.<BR>Każdy węzeł aury ma wartość bazową magiczną energii którą zawierać i energia ta jest zgodna z jednym lub większą ilością aspektów. Zwykle węzły zawierają §5Pierwotne Aspekty§0, ale zdarza się że węzeł zawieta §5Mieszane Aspekty§0.
+tc.research_page.NODES.2=Aspekty w obrębie węzła mogą być wykorzystane przez taumaturgów do własnych celów. Najprostszym sposobem jest używanie różdżki.<BR>Energia zebrana w ten sposób znana jest jako Vis.<LINE>Węzły aury trudno zobaczyć gołym okiem, ale słabe przebłyski światła często zdradzają ich obecność. §5Thaumometer§0 sprawia, że ​​węzły nieco łatwiej znaleźć, patreniec przez jego obiektyw sprawia, że węzły są ​​wyraźnie widoczne.<BR>§4Ważne:§0 Należy zachować ostrożność podczas opróżniania węzłów.Istnieje niewielka szansa, że gdy specyficzny rodzaj aspektu w węźle zostanie rozładowany, może
+tc.research_page.NODES.3=zniknąć lub uszkodzić integralność węzła.<BR>Możliwe jest, że węzeł zniknie jeżeli wszystkie aspekty zostaną opróżnione.<LINE>Na szczęście większość węzłów uzupełnia swoje aspekty w czasie i jeśli są zadbane mogą dostarczyć sprytnemu taumaturgowi wszystkie vis jakie chce.
+#
+tc.research_name.ORE=Rudy
+tc.research_text.ORE=Kop Głęboko
+tc.research_page.ORE.1=§l       §nKryształy Magii§r<BR><IMG>thaumcraft:textures/misc/research4.png:0:0:128:128:.6</IMG><BR>Czasami jest tyle pierwotnej energii w aurze, że może osiedlić się w kamieniu w celu utworzenia stałego złoża magii w postaci kryształów wewnątrz skał, które mogą być zbierane.
+tc.research_page.ORE.2=Kryształy te mają właściwości różnych żywiołów i mają wiele zastosowań w Taumaturgii ..<BR>Istnieje sześć rodzajów kryształów, po jednym dla każdego z pierwotnych aspektów.<BR><BR><IMG>thaumcraft:textures/misc/research3.png:0:104:96:16:1</IMG><BR>Mogą być one łączone ze sobą w celu utworzenia gromady kryształów. Gromady nie mają specjalnych kryształowych właściwości poza dodanie klasy każdemu domowi. Niszczenie Gromad kryształów powoduje, że kryształy rozpadają się na ich elementy składowe
+tc.research_page.ORE.3=§l         §nRuda Rtęci§r<BR><IMG>thaumcraft:textures/misc/research3.png:128:128:128:128:.6</IMG><BR>Te czerwonawe rudy znajdują się głęboko pod ziemią po przetopieniu dają rtęć.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
+tc.research_page.ORE.4=§l         §nRuda Bursztynu§r<BR><IMG>thaumcraft:textures/misc/research3.png:0:128:128:128:.6</IMG><BR>Ruda ta znajduje się blisko powierzchni i po wydobyciu daje fragmenty bursztynu.<BR><BR><IMG>thaumcraft:textures/items/amber.png:0:0:255:255:0.0625</IMG>
+#
+tc.research_name.PLANTS=Rośliny i Drzewa
+tc.research_text.PLANTS=Magiczna Roślinnośc
+tc.research_page.PLANTS.1=§l      §nWielkie Drzewa§r<BR><IMG>thaumcraft:textures/misc/research4.png:128:128:128:128:.6</IMG><BR>Te duże i majestatyczne drzewa można znaleźć w całej okolicy.<BR>Ich drewno jest w stanie wchłonąć imponujące ilości magii, co czyni go popularnym składnikiem w craftingu urządzeń magicznych.
+tc.research_page.PLANTS.2=§l     §nSrebrne Drzewa§r<BR><IMG>thaumcraft:textures/misc/research4.png:0:128:128:128:.6</IMG><BR>Te rzadkie i magiczne drzewa mają cudowny wygląd. Ich liście migoczą energią magiczną a ich blade, miękkie drewno ceni się za właściwości oczyszczające.<BR>Magiczna natura tych drzew jest taka, że ​​węzły aury często tworzą się w ich sercach - funkcja ta robi z sadzonki nagrodę ponad miarę.
+tc.research_page.PLANTS.3=§l        §nMigoczący Liść§r<BR><IMG>thaumcraft:textures/misc/research4.png:128:0:128:128:.6</IMG><BR>Nietypowe, świecące kwiaty rosną tylko w cieniu Srebrnego Drzewa. Zamiast nektaru, kwiaty te wytwarzają rtęć.<BR><BR><IMG>thaumcraft:textures/items/quicksilver.png:0:0:255:255:0.0625</IMG>
+tc.research_page.PLANTS.4=§l        §nPerła Popiołu§r<BR><IMG>thaumcraft:textures/misc/research5.png:0:0:128:128:.6</IMG><BR>Występuje tylko w najgorętszym klimacie, rośliny Płoną ogniem. Można je zbierać i mielć na drobny proszek podobny proszku blaze'a.
+tc.research_page.PLANTS.5=§l         §nFasolka Many§r<BR><IMG>thaumcraft:textures/misc/research5.png:0:128:128:128:.6</IMG><BR><BR><BR>Ta dziwna roślina rośnie na drzewach w magicznych lasach. Rośnie bardzo powoli i po zebraniu zwykle daje jedą albo dwie fasolki. 
+tc.research_page.PLANTS.6=Ziarna te, znane jako Fasolki Many, zawierają skoncentrowane ilości Esencji. Można je również spożywać, ale wyniki są często nieprzewidywalne.<BR>Można je sadzić ale uprawa jest trudna i czasochłonna.<BR><BR><BR><IMG>thaumcraft:textures/misc/research1.png:0:240:64:16:1</IMG>
+#
+tc.research_name.RESEARCHER1=Specjalizacja Badawcza
+tc.research_text.RESEARCHER1=Wiedza to Potęga
+tc.research_page.RESEARCHER1.1=Stałeś się bardziej efektywny w wykonywaniu badań.<BR>Jeśli  Kiedykolwiek spróbujesz badać aspekt "czerwonego śledzia", to trzy jego runy zostaną usunięte zamiast dwóch.<BR>Jesteś także w stanie przenosić runy o 3 pozycje na raz, zamiast dwóch.
+#
+tc.research_name.RESEARCHER2=Mistrzostwo Badawcze
+tc.research_text.RESEARCHER2=Potęga to Wiedza
+tc.research_page.RESEARCHER2.1=Stałeś się jeszcze bardziej skuteczny w wykonywaniu badań.<BR>Jeśli kiedykolwiek spróbujesz badać aspekt "czerwonego śledzia" to cztery jego runy będą usuwane, a nie trzy.<BR>Jesteś również w stanie przesuwać runy o cztery pozycje na raz, a nie trzy. Wreszcie jesteś w stanie przenieść aktywne runy, ale tylko o jedną pozycje. Ostrzegamy jednak, że w ten sposób naraża się na ryzyko wyłączania wszystkich run związanych z tym aspektem.
+#
+tc.research_name.DECONSTRUCTOR=Stół Dekonstrukcyjny
+tc.research_text.DECONSTRUCTOR=Kiedy Dobre Spojrzenie nie wystarczy
+tc.research_page.DECONSTRUCTOR.1=Przychodzi moment w karierze każdego taumaturga, kiedy nie jest w stanie rozwijać się z badań z powodu braku wiedzy.<BR>Jedynym możliwym odwołaniem jest Stół Dekonstrukcyjny.Stół pozwala na rozbicie przedmiotów do ich najprostszych elementów, które można zbadać. Istnieją jednak granice - Stół niszczy aspekty złożone w ich aspekty składowe, aż pozostaną tylko aspekty pierwotne. Podczas tego procesu traci się wiele przedmiotów ale najlepszy taumaturg może liczyć na jeden fragment pierwotnej wiedzy. <BR> Na przykład bruk (saxum i
+tc.research_page.DECONSTRUCTOR.2=perditio) zostaną uproszczone do 2 terra i 1 perditio, z których tylko jeden będzie miał szansę na pojawienie się.<BR>Jest również dość powolne i im mniej aspektów posiada obiekt, tym mniejsza szansa, aby coś odkryć.
+#
+tc.research_name.BASICTHAUMATURGY=Podstawowe Różdzkarstwo
+tc.research_text.BASICTHAUMATURGY=Twoje Pierwsze Narzędzie
+tc.research_page.BASICTHAUMATURGY.1=Różdżka jest najbardziej podstawowym, ale również najważniejszym narzędziem. To jest to, czego używasz do tworzenia przedmiotów, aktywacji bloków takich jak tygiel, i wielu innych zadań.<BR>Najbardziej podstawowe różdżki mają bardzo ograniczoną pojemność energii magicznej (tzw. Vis), które wykorzystuje się do wykonywania wielu zadań.Aby uzupełnić energię w różdżce, należy kliknąć prawym przyciskiem myszy i przytrzymać, aby wyciągnąć vis z węzła aury. <BR> Trzymając różdżkę pojawi się wskaźnik w lewym górnym rogu ekranu, który pokazuje, ile Vis jest w różdżce
+tc.research_page.BASICTHAUMATURGY.2=Trzymając shift wyświetli się dokładna liczba Vis w różdżce i ewentualne zniżki jakie masz przy wykonywaniu zadań magicznych.<BR> Różdżki są zawsze tworzone poprzez połączenie laski i dwoma nasadkami. W miarę postępów w nauce,można odkryć różne materiały, które można wykorzystać do tworzenia lasek i nasadek do potężnych różdżek. Tylko podstawowe różdżki można tworzyć w normalnym stole warsztatowym. Wszystkie inne różdżki wymagaja §5Astralnego Stołu Warsztatowego§0 i będą potrzebować Vis do stworzenia.<BR>Podstawowa różdżka jest wykonana z drewna i Żelaznych Nasadek, które to są słabymi materiałami do ​​pracy magicznej.
+#
+tc.research_name.GRATE=Krata Na Przedmioty
+tc.research_text.GRATE=Wrzuć Dobre Rzeczy
+tc.research_page.GRATE.1=Krate można zamknąć lub otworzyć ręką, lub z sygnałem Redstone. W przypadku otwartej kraty, każdy przedmiot po prostu przez nią przeleci.
+#
+tc.research_name.NODETAPPER1=Zaawansowane Opróżnianie Węzłów
+tc.research_text.NODETAPPER1=Złap Je Wszystkie!
+tc.research_page.NODETAPPER1.1=Zazwyczaj proces pobierania vis z węzła różdżką jest dość powolne... , ale nigdy więcej.<BR>odkryłeś bardziej skuteczny sposób podłączania się do węzłów aura, w wyniku tego podwaja się tempo pobierania vis. 
+#
+tc.research_name.NODETAPPER2=Mistrzowskie Opróżnianie Węzłów
+tc.research_text.NODETAPPER2=Cały Vis Należy Do Nas
+tc.research_page.NODETAPPER2.1=Dodałeś dalsze udoskonalenia metod używanych do połączenia się z węzłami aury. <BR> Jesteś teraz w stanie wyciągnąć vis trzy razy szybciej niż normalnie.
+#
+tc.research_name.NODEPRESERVE=Obrońca Węzła
+tc.research_text.NODEPRESERVE=Zostaw Troche Na Później
+tc.research_page.NODEPRESERVE=Teraz masz lepszą kontrolę nad ilością vis którą możesz wyciągnąć z węzłów. Będziesz zawsze pozostawić przynajmniej jedną vis każdego aspektu w węźle<BR>Uważaj, ten poziom kontroli nie jest możliwy przy użyciu różdżki wykonanej z normalnego drewna i żelaza.
+#
+tc.research_name.THAUMOMETER=Thaumometer
+tc.research_text.THAUMOMETER=Magiczny Pomiar
+tc.research_page.THAUMOMETER.1=Thaumometer jest jednym z najbardziej użytecznych i ważnych narzędzi w arsenale thaumaturga, drugi po różdżce.<BR>Po pierwsze, pozwala na skanowanie obiektów, lub stworzeń i określenia ich magiczny skład. Wystarczy przytrzymać prawy przycisk myszy i czekać. Sprawia że odkrywanie węzłów jest łatwiejsze, ponieważ stają się wyraźnie widoczne nawet przez obiekty stałe! 
+#
+tc.research_name.GOGGLES=Okurary Ujawniania
+tc.research_text.GOGGLES=Ujawnianie Niewidocznego
+tc.research_page.GOGGLES.1=Opierając się na podstawowych zasadach Thaumometeru,zauważyliście jego zdolność do wykrywania magii w czymś więcej... odkrywcze. <BR> Ten zestaw mistycznych soczewek sprawia że węzły aury dużo latwiej znaleść dodatkowo ujawnia wszelkiego rodzaju ukryte rzeczy. <BR> Stanowią one ważne narzędzie w arsenale każdego Thaumaturga.
+#
+tc.research_name.THAUMIUM=Thaumium
+tc.research_text.THAUMIUM=Magiczny Metal
+tc.research_page.THAUMIUM.1=Thaumium jest wynikiem stopienia metalu nieszlachetnego z surową magiczną energią.Rezultatem jest twardszy niż żelazo metal z możliwością przyjęcia zaklęć poza tymi, jakie może przyjąć zwykle żelazo. <BR> Metal, taki jak ten ma wiele zastosowań w craftingu bardziej zaawansowanych urządzeń thaumaturgicznych.<BR>Może być również wykorzystywane do tworzenia narzędzi, broni i zbroi w stole warsztatowym z zastosowaniem zwykłych przepisów.
+#
+tc.research_name.NITOR=Nitor
+tc.research_text.NITOR=Mistyczny Płomień
+tc.research_page.NITOR.1=Jego płomień wydaje się być napędzany przez samą magię.Liczba zastosowań dla wiecznie płonącego ognia wydaje się nieskończona, ale niestety wydaje się produkować znacznie więcej światła niż ciepła, choć może okazać się stałym źródłem światła i energii. <BR> Nitor może również być umieszczony w świecie i działać jako magiczne źródła światła.
+#
+tc.research_name.ALUMENTUM=Alumentum
+tc.research_text.ALUMENTUM=Mistyczne Źródło Energii
+tc.research_page.ALUMENTUM.1=Ta substancja z pulsuje energią i jest chętna do uwolnienia tej energii przy najmniejszym uderzeniu. To może być niestabilne, ale to chyba dobre źródło paliwa. <BR> Prawdopodobnie nie jest to dobry pomysł, aby rzucić go na twardą powierzchne, chyba że lubisz wybuchy.
+#
+tc.research_name.HUNGRYCHEST=Głodna Skrzynia
+tc.research_text.HUNGRYCHEST=Skrzynia, która nie czeka na otwarcie
+tc.research_page.HUNGRYCHEST.1=Głodna Skrzynia jest w stanie podnieść przedmioty, jeśli spadną na tyle blisko, by ją dotknąć.
+#
+tc.research_name.CAP_gold=Złote Nasadki Różdżek
+tc.research_text.CAP_gold=Nakładanie w dobrym stylu
+tc.research_page.CAP_gold.1=Złoto jest o wiele lepszym środkiem skupiającym moc różdżki niż żelazo i różdżka wykonana z tego materiału nie ma żadnej kary podczas używania vis.
+
+#
+tc.research_name.CAP_thaumium=Nasadki Różdżki Z Thaumium
+tc.research_text.CAP_thaumium=Magiczne Nasadki
+tc.research_page.CAP_thaumium.1=Thaumium jest znane ze swojej zdolności do przechowywania i absorbowania magii, więc używanie go do tworzenia nasadek jest dobrym wyborem. Jest bardzo skuteczne w skupianiu wszystkich typów Vis<BR>Crafting tych nasadek na astralnym stole nie nie wystarczy - trzeba je naładować magiczną energią aby można było ich używać...
+#
+tc.research_name.CAP_silver=Srebrne Nasadki Różdżek
+tc.research_text.CAP_silver=Nasadki w troche gorszym stylu
+tc.research_page.CAP_silver.1=Srebro ma właściwości podobne do złota, kiedy jest stosowane jako nasadka różdżki, ale nieco bardziej skuteczne w ładowaniu czterech żywiołów pierwotnych (ogień, ziemia, powietrze i woda)<BR>Crafting tych nasadek na astralnym stole nie wystarczy. Należy je naładować dodatkową energią magiczną, aby stały się użyteczne.
+#
+tc.research_name.CAP_copper=Miedziane Nasadki Różdżek
+tc.research_text.CAP_copper=Kiedy Żelazo się zużyje
+tc.research_page.CAP_copper.1=Miedź ma właściwości podobne do żelaza jako nasadka różdżki, ale jest tak wydajna jak złoto, gdy wykorzystywuje się ją podczas czerpania Ordo lub Perditio Vis.
+#
+tc.research_name.ROD_greatwood=Laska Z Wielkiego Drzewa
+tc.research_text.ROD_greatwood=Magazyn Magicznej Energii
+tc.research_page.ROD_greatwood.1=Rzeźbiona z drewna wielkiego drzewa laska ma podwójną pojemność do przechowywania Vis, jest w stanie pomieścić do 50 vis każdego typu.
+#
+tc.research_name.ROD_silverwood=Laska Z Srebrnego Drzewa
+tc.research_text.ROD_silverwood=Magiczna Do Rdzenia
+tc.research_page.ROD_silverwood.1=Srebrne Drewno okazało się doskonałym magazynem magicznej energii, laski z tego drewna mogą pomieścić do 100 Vis każdego rodzaju.
+#
+tc.research_name.ROD_obsidian=Obsydianowa
+tc.research_text.ROD_obsidian=Magazyn Ziemnego Vis
+tc.research_page.ROD_obsidian.1=Laska wyrzeźbiona z obsydianu ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom terry przechowywanej wewnątrz spada poniżej 10% to powoli się uzupełnienia, bez zastosowania węzła.
+#
+tc.research_name.ROD_bone=Kościana Laska
+tc.research_text.ROD_bone=Magazyn Entropii
+tc.research_page.ROD_bone.1=Laska z kości ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom Perditio przechowywanego wewnątrz spada poniżej 10% to powoli się uzupełnienia, bez zastosowania węzła.
+#
+tc.research_name.ROD_blaze=Laska Z Pałki Blaze'a
+tc.research_text.ROD_blaze=Magazyn Ognistego Vis
+tc.research_page.ROD_blaze.1=Laska z Pałki Blaze'a ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom Ignis przechowywanego wewnątrz spada poniżej 10% to ognista natura laski powoli je uzupełnia
+#
+tc.research_name.ROD_ice=Lodowa Laska
+tc.research_text.ROD_ice=Magazyn Lodowego Vis
+tc.research_page.ROD_ice.1=Laska z Lodu ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom Aqua przechowywanego wewnątrz spada poniżej 10% to lodowa natura laski powoli je uzupełnia
+#
+tc.research_name.ROD_quartz=Kwarcowa Laska
+tc.research_text.ROD_quartz=Magazyn Porządku
+tc.research_page.ROD_quartz.1=Laska z kwarcu ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom Ordo przechowywanego wewnątrz spada poniżej 10% to powoli się uzupełnienia, bez zastosowania węzła.
+#
+tc.research_name.ROD_reed=Trzcionowa Lasla
+tc.research_text.ROD_reed=Magazyn Powietrza
+tc.research_page.ROD_reed.1=Laska z trzciny ma nieco większe możliwości przechowywania Vis niż ta z wielkiego drzewa. Jeśli poziom Aer przechowywanego wewnątrz spada poniżej 10% to powoli się uzupełnienia, bez zastosowania węzła.
+#
+tc.research_name.FOCUSFIRE=Soczewki Różdżek
+tc.research_text.FOCUSFIRE=Forma Spotyka Funkcje
+tc.research_page.FOCUSFIRE.1=Niektóre eksperymenty wykazały możliwości rozwinięcia możliwości nawet najsłabszej różdżki. <BR> Łącząc krystaliczne Odłamki Vis z kwarcem i zaszczepając w nich magie, jesteś w stanie dostosować je do skupiania magii. <BR > Jeśli odpowiednie rodzaje i ilości vis skupi się za pośrednictwem soczewki, to przekształci surową magiczną energię na coś pożytecznego, kontrolowanego i dostosowanego do konkretnego zadania.
+tc.research_page.FOCUSFIRE.2=Zakładanie soczewki na różdżke jest bardzo proste - wystarczy nacisnąć F trzymając różdżkę, a soczewka zostanie założona. Naciskaj F, aby zmienić założoną soczewke. <LINE> Twoje pierwsze eksperymenty dotyczyły kształtowania ognia i soczewka okazała się prostym, ale przydatnym  narzędziem.<BR> Jest ona w stanie wysyłać stożek ognia, który pali wszystko na swojej drodze
+#
+tc.research_name.FOCUSFROST=Soczewka : Zimno
+tc.research_text.FOCUSFROST=Zemsta najlepiej smakuje na zimno
+tc.research_page.FOCUSFROST.1=Ta soczewka pozwala ciskać kawałkami lodu. <BR> Należy zachować ostrożność, ponieważ kawałkek lodu jest w stanie zniszczyć delikatne przedmioty.
+#
+tc.research_name.FOCUSSHOCK=Soczewka: Szok
+tc.research_text.FOCUSSHOCK=Piorun i Światło
+tc.research_page.FOCUSSHOCK.1=Ta soczewka jest w stanie skupiać energię żywiołów w błyskawice, którymi można ciskać w swoich wrogów.
+#
+tc.research_name.FOCUSEXCAVATION=Soczewka: Wykop
+tc.research_text.FOCUSEXCAVATION=Terror Ziemi
+tc.research_page.FOCUSEXCAVATION.1=Ta Soczewka zamienia różdżke w narzędzie zdolne kopać duże ilości ziemi i kamienia przy niewielkim wysiłku.<BR>Wystarczy skierować różdżkę na to, co chcesz,wydobyć a magia zrobi resztę. Im bardziej złożony materiał tym dłużej trwa jego wydobywanie.
+#
+tc.research_name.FOCUSTRADE=Soczewka: Równość Handlu
+tc.research_text.FOCUSTRADE=To Dlatego...
+tc.research_page.FOCUSTRADE.1=Możesz użyć tegj soczewki aby zmieniać dziesiątki na świecie,<BR> Najpierw należy wybrać blok, który chcesz zamienić w inny blok Podczas skradania klikając na nim PPM na. Następnie kliknij lewym przyciskiem myszy bloku w który chesz zamienić inny. Kliknięcie prawym przyciskiem myszy zmieni cały blok.<BR> Tylko bloki z co najmniej jednej powierzchni przyległej do otwartej przestrzeni lub nie stałe bloki zostaną przekształcone.
+#
+tc.research_name.FOCUSHELLBAT=Soczewka: Dziewięć Piekieł
+tc.research_text.FOCUSHELLBAT=MAły Terror
+tc.research_page.FOCUSHELLBAT.1=Wypady do  Netheru nauczyły cię obawiać malutkich terrorystów zwanych ognistymi nietoperzami. Teraz odkryłeś sposób przywołać tych terrorystów i wysłać je na swoich wrogów. Doskonale!
+#
+tc.research_name.FOCUSPORTABLEHOLE=Soczewka: Przenośna Dziura
+tc.research_text.FOCUSPORTABLEHOLE=Nigdy nie zgubisz wyjścia
+tc.research_page.FOCUSPORTABLEHOLE.1=Ci którym udało się za pomocą vis stworzyć dodatkowe wymiary. Korzystają z tego skupiając się na ścianie lub innej powierzchni stworzą kanał prowadzący na drugą stronę. <BR> "Dziura" tylko pozostaje otwarta przez kilka sekund i pobór vis z różdżki, w zależności od jej głębokości.<BR> Portale nie mogą być tworzone przez niektóre rodzaje materii lub szczególnie złożone obiekty.
+#
+tc.research_name.FOCUSPOUCH=Woreczek na soczewki
+tc.research_text.FOCUSPOUCH=Wygodny pojemnik na soczewki
+tc.research_page.FOCUSPOUCH.1=Po zgromadzeniu sporej kolekcji soczewek zabieranie ich wszystkich ze soba jest dość irytujące. Ten Woreczek rozwiązuje problem.<BR>Kiedy zmieniasz soczewke różdżki, to najpierw otwórz woreczek i wszelkie soczewki, które zostaną usunięte zostaną umieszczone wewnątrz niego. Można również kliknąć prawym przyciskiem myszy, aby włozyć soczewke do woreczka albo zrobić to ręcznie.
+#
+tc.research_name.BOOTSTRAVELLER=Buty Podróżnika
+tc.research_text.BOOTSTRAVELLER=Buty stworzone do podróżowania
+tc.research_page.BOOTSTRAVELLER.1=Ta para butów zostały napełnione magia, aby ułatwić każdegą podróż. <BR> Pozwalają one poruszać się szybciej niż normalnie. Pozwalają one także skakać wyżej i dalej. <BR> Wreszcie one pozwalają przebić się przez wodę jak ryba.Powolna i niezgrabna ryba, ale jednak ryba.
+#
+tc.research_name.PHIAL=Szklany Flakonik
+tc.research_text.PHIAL=Mistyczny Pojemnik
+tc.research_page.PHIAL.1=Szklane flakoniki są zdolne do utrzymywania wszelkiego rodzaju cieczy i substancji, ale ich najważniejszym zastosowaniem w taumaturgii jest ich zdolność do przechowywania Esencji.
+#
+tc.research_name.TABLE=Stół
+tc.research_text.TABLE=Czasami potrzebny
+tc.research_page.TABLE.1=Stół jest czymś więcej niż zwykłym dekoracyjnym blokiem - służy również jako podstawa dla innych stołów, przydatnych w praktyce magicznej, jak Astralny stół i Stół Badawczy.
+#
+tc.research_name.ARCTABLE=Astralny Stół Warsztatowy
+tc.research_text.ARCTABLE=Rzemiosło Magiczne
+tc.research_page.ARCTABLE.1=Aby utworzyć Astralny stół po prostu kliknij prawym przyciskiem myszy różdżką na stole postawionym gdziekolwiek .Astralny Stół Warsztatowy służy do tego samego celu, co normalny, z kilkoma wyjątkami.<BR>Oprócz normalnych receptur , może też stworzyć niektóre przedmioty potrzebne do Taumaturgii. Aby to zrobić należy umieścić różdżke w górnym prawym gnieździe. Pozwoli to, stworzyć przedmioty, które wymagają vis bezpośrednio z różdżki. <BR> Vis wymagane do stworzenia przedmiotu zostanie pokazany w sześciu okrągłych symbolach okalających siatkę stołu.
+#
+tc.research_name.RESTABLE=Stół Badawczy
+tc.research_text.RESTABLE=Do powiększania wiedzy
+tc.research_page.RESTABLE.1=Stół Badawczy tworzy się przez umieszczenie dwóch stołów obok siebie, a następnie klikając jednym z nich narzędziami do pisania.<BR>Stół Badawczy jest najważniejszym narzędziem dla każdego taumaturga. Jest on stosowany, aby odkryć wszystkie ukryte tajemnice wszechświata i odkryć nowe sposoby wykorzystanie magii.
+#
+tc.research_name.THAUMONOMICON=Thaumonomicon
+tc.research_text.THAUMONOMICON=Rezpozytorium Wiedzy
+tc.research_page.THAUMONOMICON.1=Aby Stworzyć Thaumonomicon, należy po prostu użyć różdżki na bibliteczce ustawionej gdziekolwiek. <BR> Thaumonomicon jest książką posiadającą cała wiedze thaumaturgiczną. Jest to lista wszystkich dokonanych odkryć i daje ogólne wrażenie, jak wiele jest jeszcze do odkrycia.<BR>Jeśli kiedykolwiek coś zbadasz i użyjesz zwoju, zostanie automatycznie dodany do tej książki. Następnie można przeglądać odkrycia i klikać na nie, aby zobaczyć szczegółowe informacje, jak również wszelkie receptury związane z tymi odkryciami.
+#
+tc.research_name.CRUCIBLE=Tygiel
+tc.research_text.CRUCIBLE=Bąbelki i Gotowanie
+tc.research_page.CRUCIBLE.1=Aby stworzyć Tygiel trzeba po prostu użyć różdżki na kotle postawionym gdziekolwiek. <BR> Tygiel jest ważnym narzędziem dla każdego taumaturga. To pozwala mu na rozkładanie obiektów fizycznych na ich składowe esencje i tworzenie ich ponownie, jeżeli chcesz. <BR> Tygiel musi być umieszczony nad stałym źródłem ciepła i wypełniony wodą. Po zagotowaniu wody wystarczy wrzucić jakieś elementy, do tygla i będą w dzielić się na poszczególne Esencje.<BR> Jeśli znasz prawidły wzór i mieszankę Esencji zasięgu
+tc.research_page.CRUCIBLE.2=tygiel jest pusty, możesz wrzucić specjalny przedmiot do tygla znany jako katalizator.Katalizator łączy esencje w sobie i przekształca się w zupełnie nowy element, który tygiel następnie wyrzuca. <BR> Wszelkie resztki Esencji pozostają w tyglu do dalszego wykorzystania, ale to nie jest dobrym pomysłem, aby zostawić Esencje w tyglu za długo . <BR> Tworzenie wykorzystuje również część wody w tyglu i będziesz w końcu musiał go uzupełnić. <BR> Esencja w tyglu stale się rozkłada. Związek esencji rozkłada się na jeden z jego aspektów składowych oraz na pierwotną esencje łatwo
+tc.research_page.CRUCIBLE.3=zmarnować. Pierwotna esencja odparowuje i gęstnieje więc może powodować wiele dziwnych efektów ubocznych.<BR> Możesz opróżnić tygiel przez kliknięcie prawym przyciskiem myszy na niego różdżką. Cała esencja jest wyrzucana do atmosfery Nie rób tego zbyt często... 
+#
+tc.research_name.ENCHFABRIC=Magiczny Materiał
+tc.research_text.ENCHFABRIC=Śliski i stylowy
+tc.research_page.ENCHFABRIC.1=Łącząc pajęczy jedwab i wełne oraz wszczepiając w nią pierwotny vis,możesz stworzyć długą jedwabistą magiczną tkanine, która ma wiele zastosowań.<BR>Odkryłeś również wzory do tworzenia szaty tkanej z magicznej tkaniny. Te szaty mają podobne właściwości ochronne do skórzanej zbroi, ale są one o wiele bardziej trwałe niż jakiekolwiek ziemskie materiały.<BR> Posiadają również mistyczne zaklęcia i mogą przyjmowac potężną magie znacznie lepiej niż kosztowniejsze zbroje.
+tc.research_page.ENCHFABRIC.2=Poszczególne fragmenty tego stroju przyznają mały rabat vis ,podczas używania różdżki.<BR> Możesz farbować tą szate tak jak skurzaną zbroję.
+#
+tc.research_name.ENCHANT=Zaklęcia
+tc.research_text.ENCHANT=Nowe Zaklęcia
+tc.research_page.ENCHANT.1=Thaumcraft dodaje wiele unikatowych zaklęć.<BR>§nEnergia (tylko dla soczewek)§r<BR>To zaklęcie zwiększa obrażenia, zasięg lub obszar zastosowania soczewek.<BR>§nOszczędność (tylko dla soczewek)§r<BR>Soczewki z tym zaklęciem zużywają mniej vis podczas działania.<BR>§nPrzygoda (tylko dla soczewek)§r<BR>To zaklęcie działa jak szczęście. sprawia że efektem używania soczewek jest więcej przedmiotów
+tc.research_page.ENCHANT.2=§nPospiech§r <BR> Ten czar może być stosowany na wszystkich rodzajach obuwia i zwiększa szybkość przemieszczania się na lądzie .Im wyższy poziom zaklęcia tym, większa premia prędkości.<BR>§nNaprawa§r.<BR>Ten czar powoli naprawia narzędzia pobierając vis z aury. Im wyższy poziom zaklęcia, tym szybciej zachodzi naprawia. Ten czar może być stosowany tylko do z Thaumcrafta, a nawet nie dla wszystkich z nich.
+#
+tc.research_name.ELEMENTALAXE=Siekiera Parowa
+tc.research_text.ELEMENTALAXE=Rzeka Drewna
+tc.research_page.ELEMENTALAXE.1=Dzięki połączeniu kryształów wody i siekiery z thaumium, utworzono narzędzie, które uosabia aspekt ruchu i przepływu. <BR> Działa jak normalny siekierą na wszystkich materiałach, z wyjątkiem naturalnych polan i drzew. Kiedy na nich jest używana siekiera tnie od najdalszego bloku tego samego typu, który jest z  blokiem, który próbujesz zebrać,zamiast jednego.<BR>W efekcie można rąbać drzewa od góry w dół, nawet jeśli trafisz zcinasz najniższy blok.
+tc.research_page.ELEMENTALAXE.2=Jeśli naciśniesz i przytrzymasz prawy przycisk myszy topór będzie zbierać w znacznie szybszym tempie, ale kosztem jego trwałości.<BR> Jeśli skradasz się podczas korzystania z tego narzędzia wszystkie jego szczególne właściwości są zawieszone, a działa on jak zwykły topór . #
+#
+tc.research_name.ELEMENTALPICK=Kilof Rdzenia
+tc.research_text.ELEMENTALPICK=Oczyszczające Ciepło
+tc.research_page.ELEMENTALPICK.1=Przez połączenie kilofu z thaumium z odłamkami ognia, utworzono kilof, który świeci ogniem kuźni.<BR>Kiedy kopiesz rude jest szansa, że będzie wydobywać rodzime złoże zamiast rudy. Rodzime złoża są znacznie łatwiejsze w obróbce i daje podwójną ilość metalu,podczas przetapiania. <BR>kliknając prawym przyciskiem myszy na dowiedzieć się, czy są jakieś cenne minerały w pobliżu.
+tc.research_page.ELEMENTALPICK.2=Jeśli skradasz się podczas korzystania z tego narzędzia wszystkie jego szczególne właściwości są zawieszone, a działa on jak normalny kilof.
+#
+tc.research_name.ELEMENTALSWORD=Miecz Zefiru
+tc.research_text.ELEMENTALSWORD=Boski wiatr
+tc.research_page.ELEMENTALSWORD.1=Połączenie elementarnej furii odłamków powietrza z mieczem z thaumium. <BR> Gdy używasz miecza do atakowania wroga, ostrze zatacza szeroki łuk, uderzając dodatkowych wrogów blisko głównego celu. <BR> Podczas blokowania miecz będzie wyczarowywać sfere wirującego wiatru wokół ciebie, spychając wrogów i luźne przedmioty z dala i odchylająć tor loru nadlatujących pocisków. <BR> Choć blokuje również powoli podnosi cię w powietrze.
+#
+tc.research_name.ELEMENTALSHOVEL=Łopata Kopacza
+tc.research_text.ELEMENTALSHOVEL=Podnosząc Ziemię...
+tc.research_page.ELEMENTALSHOVEL.1=Łączenie z krystałami ziemi Ziemi z łopatą thaumium. tworzy niezastąpione narzędzie <BR> Gdy używane do kopania ziemi, piasku i podobnych materiałów będzie wykopywać obszar 3x3.<BR> Jeśli klikniesz prawym przyciskiem myszy na ścianie bloku, to spróbuje umieścić sekcję 3x3 z tego samego materiału, w świecie tak długo, kiedy masz odpowiednie bloki w ekwipunku.<BR>Do czego zostanie użyta zależy tylko od woli Thaumaturga.
+tc.research_page.ELEMENTALSHOVEL.2=Jeśli skradasz się podczas używania jej to działa jak normalna łopata
+#
+tc.research_name.ELEMENTALHOE=Motyka Wzrostu
+tc.research_text.ELEMENTALHOE=Balansując Naturą
+tc.research_page.ELEMENTALHOE.1=Poprzez połączenie magicznej energiii, odłamków podządku i chaosu z motyką z thaumium, zostało wynalezione idealne narzędzie rolnicze. <BR>Używane na ziemi,tworzy pole uprawne wielkości 3x3.<BR>W przypadku stosowania na uprawach i innych roślinach będzie działać jak mączka kostna w celu przyśpieszania wzrostu, choć wyższym kosztem trwałości. Jest nawet w stanie przyśpieszać wzrost roślin,na które normalnie mączka kostna nie dziala.<BR>Podczas skradania działa jak normalna motyka
+#
+tc.research_name.GUNPOWDER=Proch
+tc.research_text.GUNPOWDER=Poco Komu creepery
+tc.research_page.GUNPOWDER.1=Odkryłeś alternatywne źródło prochu! Nie więcej nie będziesz musiał polować na tą wybuchową substancje.
+#
+tc.research_name.TRANSIRON=Transmutacja żelaza
+tc.research_text.TRANSIRON=Transformacja metali na Żelazo
+tc.research_page.TRANSIRON.1=Odkryłeś sposób mnożenia samorodków żelaza poprzez wrzucanie żelaza do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TRANSGOLD=Transmutacja złota
+tc.research_text.TRANSGOLD=Transformacja metali na Złoto
+tc.research_page.TRANSGOLD.1=Odkryłeś sposób mnożenia samorodków złota poprzez wrzucanie złota do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TRANSCOPPER=Transmutacja miedzi
+tc.research_text.TRANSCOPPER=Transformacja metali na Miedz
+tc.research_page.TRANSCOPPER.1=Odkryłeś sposób mnożenia samorodków miedzi poprzez wrzucanie miedzi do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TRANSTIN=Transmutacja Cyny
+tc.research_text.TRANSTIN=Transformacja metali na Cyne
+tc.research_page.TRANSTIN.1=Odkryłeś sposób mnożenia samorodków cyny poprzez wrzucanie cyny do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TRANSSILVER=Transmutacja Srebra
+tc.research_text.TRANSSILVER=Transformacja metali na Srebro
+tc.research_page.TRANSSILVER.1=Odkryłeś sposób mnożenia samorodków srebra poprzez wrzucanie srebra do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TRANSLEAD=Transmutacja Ołowiu
+tc.research_text.TRANSLEAD=Transformacja metali na Ołów
+tc.research_page.TRANSLEAD.1=Odkryłeś sposób mnożenia samorodków ołowiu poprzez wrzucanie ołowiu do §5metallum§0 zebranym z innych metali.
+#
+tc.research_name.TALLOW=MAgiczny Łój
+tc.research_text.TALLOW=Tłuszcz z odrobiną magii
+tc.research_page.TALLOW.1=Przez przetwarzanie i podgrzewanie mięsa w tyglu, można stworzyć mistyczny łój nadający się do wielu zastosowań. <BR> Łój może być stosowany do tworzenia świec. Jest także możliwe, by stworzyć różne kolorowe świece łącząc świecę z barwnikiem na astralnym stole.
+#
+tc.research_name.GOLEMSTRAW=Słomiane Golemy
+tc.research_text.GOLEMSTRAW=Prości magiczni słudzy
+tc.research_page.GOLEMSTRAW.1=Odkryłeś tajemnicę tworzenia golemów.Chociaż żelazny golem jest imponujący na swój sposób, to jest bardzo ograniczony i niekontrolowany. Udało ci się rozwiązać oba te problemy. <BR> Twoim Golemom wystarczy tylko wola i samoświadomość, aby były użytecznymi narzędziami, ale nie na tyle, aby je kontrolować. <LINE> Wiesz także również, jak stworzyć, § 5Dzwonek golemancjera §0 i §5Rdzeń Animacji Golemów§0 (sprawdź swoje zapiski badawczych aby uzyskac więcej szczegółów).
+tc.research_page.GOLEMSTRAW.2=Golem może być umieszczony gdziekolwiek, ale pozostaje nieaktywny do momentu założenia mu Rdzenia Animacji<BR> Umieszczenie golema trzeba dokładnie przemyśleć -. Jeśli chcesz go do interakcji z zapasami, musisz go umieścić, klikając  na miejscu gdzie go potrzebujesz.<BR>Większość golemów może pracować w zakresie 16 bloków wokół ich domu.
+tc.research_page.GOLEMSTRAW.3=Pierwszy golem jakiego można stworzyć wykonany jest z wiązki siana i słomy.Jest fizycznie słaby i łatwy do zniszczenia, ale bardzo lekki i zwinny.<BR>§l§nAtrybuty Słomianego Golema§r<BR>§lWytrzymałośc:§r Bardzo Mała<BR>§lSiła:§r Bardzo Mała<BR>§lAutonaprawa:§r Średnia<BR>§lUdźwig:§r 1<BR>§lSzybkość:§r Szybki<BR>§lUlepszenia:§r 1
+#
+tc.research_name.GOLEMWOOD=Drewniane Golemy
+tc.research_text.GOLEMWOOD=Ile Drewna trzeba dać drewnianemu golemowi aby rąbał drewno ?
+tc.research_page.GOLEMWOOD.1=Ten golem jest wycięty z Wielkiego Drzewa. Jest Troche lepszy w porównaniu do Słomianego Golema.<BR>§l§nAtrybuty drewnianego Golema§r<BR>§lWytrzymałość:§r Poniżej Średniej<BR>§lSiła:§r Mała<BR>§lAutonaprawa:§r Średnia<BR>§lUdźwig:§r 4<BR>§lSzybkość:§r Powyżej Średniej<BR>§lUlepszenia:§r 1
+#
+tc.research_name.GOLEMTALLOW=Łojowe golemy
+tc.research_text.GOLEMTALLOW=Trzymaj je z dala od ognia
+tc.research_page.GOLEMTALLOW.1=Ten zaawansowany golem jest tylko nieznacznie lepszy od drewnianego, ale jest w stanie otrzymać dwa ulepszenia.<BR>§l§nAtrybuty Łojowego Golema§r<BR>§lWytrzymałość:§r Średnia<BR>§lSiła:§r Średnia<BR>§lAutonaprawa:§r Średnia<BR>§lUdźwig:§r 8<BR>§lSzybkość:§r Średnia<BR>§lUlepszenia:§r 2
+#
+tc.research_name.GOLEMCLAY=Gliniane Golemy
+tc.research_text.GOLEMCLAY=Mocne i Wytrzymałe
+tc.research_page.GOLEMCLAY.1=Opalona glina okazała się doskonała do tworzenia golemów. Golemy są ognioodporne i mają zaskakującą mobilność.<BR>§l§nAtrybuty Glinianego Golema§r<BR>§lWytrzymałość:§r Średnia<BR>§lSiła:§r Średnia<BR>§lAutonaprawa:§r Wolna<BR>§lUdźwig:§r 8<BR>§lSzybkość:§r Średnia<BR>§lUlepszenia:§r 1
+#
+tc.research_name.GOLEMFLESH=Mięsne Golemy
+tc.research_text.GOLEMFLESH=To Żyje
+tc.research_page.GOLEMFLESH.1=Chociaż te makabryczne golemy wykonane są mięsa zombie maja kilka funkcji godnych polecenia. Nie tylko mają bardzo szybką zdolność samonaprawy, ale są także w stanie pomieścić 2 ulepszenia.<BR>§l§nAtrybuty Mięsnego Golema§r<BR>§lWytrzymałośc:§r Mała<BR>§lSiła:§r Mała<BR>§lAutonaprawa:§r Bardzo Szybka<BR>§lUdźwig:§r 4<BR>§lSzybkość:§r Powyżej Średniej<BR>§lUlepszenia:§r 2
+#
+tc.research_name.GOLEMSTONE=Kamienne Golemy
+tc.research_text.GOLEMSTONE=Silne Ale Powolne
+tc.research_page.GOLEMSTONE.1=Golemy kamienne są bardzo trwałe i zdolne do przenoszenia wielu przedmiotów, ale są one znacznie wolniejsze niż większość innych golemów.<BR>§l§nAtrybuty Kamiennego Golema§r<BR>§lWytrzymałość:§r Powyżej Średniej<BR>§lSiła:§r Powyżej Średniej<BR>§lAutonaprawa:§r Wolna<BR>§lUdźwig:§r 16<BR>§lSzybkość:§r Mała<BR>§lUlepszenia:§r 1
+#
+tc.research_name.GOLEMIRON=Żelazne Golemy
+tc.research_text.GOLEMIRON=Wioskowe Golemy...Tylko mniejsze... i lepsze
+tc.research_page.GOLEMIRON.1=Żelazne Golemy są bardzo twarde i mocne,są w stanie przenosić duże obciążenia. Jednak ich waga powoduje że są powolne.<BR>§l§nAtrybuty Żelaznego Golema§r<BR>§lWytrzymałość:§r Duża<BR>§lSiła:§r Duża<BR>§lAutonaprawa:§r Bardzo Wolna<BR>§lUdzwig:§r 32<BR>§lSzybkość:§r Bardzo Mała<BR>§lUlepszenia:§r 1
+#
+tc.research_name.GOLEMTHAUMIUM=Golemy Z Thaumium
+tc.research_text.GOLEMTHAUMIUM=Mistyczni Słudzy
+tc.research_page.GOLEMTHAUMIUM.1=Golemy Z Thaumium mają nieco lepsze cechy niż golemy żelazne i są w stanie otrzymać 2 ulepszenia. Są też bardzo odporne na obrażenia magiczne.<BR>§l§nAtrybuty Golema Z Thaumium§r<BR>§lWytrzymałość:§r Bardzo Duża<BR>§lSiła:§r Duża<BR>§lAutonaprawa:§r Wolna<BR>§lUdzwig:§r 32<BR>§lSzybkośc:§r Mała<BR>§lUlepszenia:§r 2
+#
+tc.research_name.GOLEMBELL=Dzwonek Golemancjera
+tc.research_text.GOLEMBELL=Zwraca Uwage
+tc.research_page.GOLEMBELL.1=Golemy notorycznie źle wykonują polecenia słowne, ale dzwonek pozwala tego uniknąć . <BR> Wystarczy kliknąć prawym przyciskiem myszy na golema, aby go wybrać. Gdy to zrobisz świecące,pojawi się świecacy krąg i informacja, "Dom" lokalizacja golema i on sam jest połączony z. <BR> Teraz możesz kliknąć prawym przyciskiem myszy w dowolnym miejscu na świecie,aby połączyć golema z blokiem, lokalizacją lub zapasami z którymi może wchodzić w interakcje . Kliknięcie na tej samej lokalizacji, albo usuwa oznaczenie, czy tworzy cykl przez różne barwy, jeśli golem jest w stanie współdziałać z różnymi markerami barwnymi.
+tc.research_page.GOLEMBELL.2=<BR>Shift + kliknięcie prawym przyciskiem myszy na zaznaczonym miejscu zawsze będzie jasne, to naciskając F usuwasz wszystkie zaznaczone miejsca. <LINE> Kliknięcie lewym przyciskiem myszy na golema podnosi go wszystkie jego ulepszenia i ustawienia. Shift + kliknięcie lewym przyciskiem myszy podnosi golema, ale usuwa jej rdzeń i wszystkie podłączone ulepszenia, które spadają oddzielnie. Jest duża szansa, że ​​aktualizacje zostaną utracone jeśli to zrobisz.
+#
+tc.research_name.COREGATHER=Rdzeń Golema: Zbierz
+tc.research_text.COREGATHER=Zbiera to co upuścisz
+tc.research_page.COREGATHER.1=Rdzenie Animacji są stosowane, aby dać cel Golemowi -.. Bez rdzenia pozostają martwe.<BR>Pierwszy taki rdzeń jaki jesteś w stanie stworzyć to Rdzeń: §5Zbierz§0<BR> Golemy wyposażone w ten rdzeń będzie dążyć do podniesienia przedmiotów w odległości 16 bloków od domu, zbiora je, a następnie umieszczą je w skrzyni z nim połączonej. Jeśli nie są one połączone ze skrzynią to  będą po prostu trzymać przedmiot <BR> Po kliknięciu prawym przyciskiem na golema będzie można konkretne przedmioty mu odebrać -. Wszystkie pozostałe będą ignorowane.
+tc.research_page.COREGATHER.2=Wystarczy kliknąć prawym przyciskiem myszy na świeżo postawionego golema aby umiescić w nim rdzeń.
+#
+tc.research_name.COREEMPTY=Rdzeń Golema: Opróżnij
+tc.research_text.COREEMPTY=Przenosi rzeczy gdzie indziej
+tc.research_page.COREEMPTY.1=Golemy wyposażone w ten rdzeń będzie usuwać elementy z połaczonej z nim skrzyni i wkładać ję w zaznaczone miejsce. Jeśli zaznaczony obiekt to pojemnik, będą je umieszczać wewnątrz.<BR> Jeśli chcesz, możesz określić, jakie elementy powinny zostać usunięte ze skrzyni, korzystając z interfejsu golema. Wszystkie pozostałe przedmioty będą ignorowane.
+#
+tc.research_name.COREUSE=Rdzeń Golema: Użyj
+tc.research_text.COREUSE=Klik Klik
+tc.research_page.COREUSE.1=Tak jak golemy z rdzeniem "Opróżnij", golemy wyposażone w ten rdzeń będzie usuwać elementy z połączonej z nim skrzyni, ale zamiast umieszczac go w innej skrzyni lub upuszczać go będą próbowały używać go na bloku docelowym lub miejscu. <BR>Będą próbować użyć elementu tak, jakby gracz klikał prawym przyciskiem myszy na bloku docelowym lub miejscu.<BR> Jeśli chcesz, możesz określić, jakie elementy powinny zostać usunięte ze skrzyni, korzystając z interfejsu golema. Wszystkie pozostałe pozycje zostaną zignorowane.
+#
+tc.research_name.COREFILL=Rdzeń Golema: Napełnij
+tc.research_text.COREFILL=Trzymanie dostarczonego pojemnika
+tc.research_page.COREFILL.1=Golem wyposażony w ten rdzeń zbierze zaznaczone przedmioty, i umieści je w swoim ekwipunku<BR>Istnieją dwa tryby pracy:<BR>W trybie §5Dokładnej Ilości§0 golem wypełni swój ekwipunek, dopóki nie będzie miał ilości określonej w jego ekwipunku.<BR>W Trybie §5Każdej Ilości§0 golem będzie zbierał przedmiot jeśli aż nie będzie miał miejca w ekwipunku
+#
+tc.research_name.COREHARVEST=Rdzeń Golema: Żniwo
+tc.research_text.COREHARVEST=Animowany Farmer
+tc.research_page.COREHARVEST.1=Golemy wyposażone w ten rdzeń nie muszą być połączone z pojemnikiem. Starają się uprawianć zboże, trzcine i inne rośliny  hodowlanego w małym promieniu i zbierać je.Zebrany materiał po prostu spada na ziemię i musi być zbierany za pomocą innych środków.<BR>Niestety nie są one wystarczająco inteligentne, aby sadzić plony, które zebrali, na pewno przy odrobinie pracy można naprawić ten błąd
+tc.research_page.COREHARVEST.2=     §nUlepszenie Golema: Porządek§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>Golemy wyposażone w to ulepszenie będą teraz próbować przesadzadzać zebrane plony. To nie znaczy że nie będą upuszczać plonów czy sadzonek
+#
+tc.research_name.CORELUMBER=Rdzeń Golema: Rąb
+tc.research_text.CORELUMBER=Animowany Drwal
+tc.research_page.CORELUMBER.1=Jak Golemy Żniwiarskie, Golemy Drwale mogą być umieszczone w dowolnym miejscu. Będą szukać w pobliżu drzew i ścinać je. Silniejsze golemy będą ścinać je szybciej.<BR>Drwale nie sadzą drzew które zetną
+#
+tc.research_name.COREGUARD=Rdzeń Golema: Broń
+tc.research_text.COREGUARD=Chroni twojego bezpieczeństwa
+tc.research_page.COREGUARD.1=Golemy wyposażone w ten rdzeń działają jak strażnicy, atakując wszystkie wrogie istoty znajdujące się w zasięgu.<BR> Na pewno,można pomajsterkować aby golemy wybieraly cele, ale na razie szukają agresywnych mobów innych niż creepery.
+tc.research_page.COREGUARD.2=     §nUlepszenie Golema: Porządek§r<IMG>thaumcraft:textures/items/golem_upgrade_order.png:0:0:255:255:0.0625</IMG>Jeśli ulepszysz tym golema możesz określić rodzaje stworzeń golem ma atakowac.Golem będzie również w stanie atakować nie tylko wrogie jednostki.
+#
+tc.research_name.CORELIQUID=Rdzeń Golema: Przelej
+tc.research_text.CORELIQUID=Napełnianie Zbiornika Płynem
+tc.research_page.CORELIQUID.1=Golemy wyposażone w ten rdzeń będą próbować utrzymać nalewać płyn do zbiornika połaczonego z nimi. <BR>Jeśli chcesz, możesz określić, jaki płyn należy przelewac, korzystając z interfejsu Golema i umieszczając zbiornik (jak wypełnione wiadro) w gnieździe. Wszystkie inne płyny będą ignorowane. <BR> Golem może przewozić tylko 100MB cieczy na raz jeśli jest to możliwe choć zawsze będą próbować przenosić pełne wiadra
+#
+tc.research_name.COREALCHEMY=Rdzeń Golema: Alchemia
+tc.research_text.COREALCHEMY=Przenosi Esencje Wokoło
+tc.research_page.COREALCHEMY.1=Ten rdzeń jest specjalną wersją rdzenia "przelej", specjalnie zaprojektowany do transportu Esencji.<BR>Alchemicy przypisani do pieca alchemicznego lub alembiku będą wyciągać z niego esencje i transportować ją do oznaczonych słoików. Nie jest wymagane, aby zaznaczyć każdy słoik -. Golem automatycznie wypełni wszystkie słoiki przyległe do oznaczonego słoika. <BR>Priorytetem golema jest wypełnienie pierwszego słoika przed napełnieniem następnego
+#
+tc.research_name.UPGRADEAIR=Ulepszenie Golema: Powierze
+tc.research_text.UPGRADEAIR=Czyni Golema Szybszym
+tc.research_page.UPGRADEAIR.1=Kiedy to ulepszenie jest dołączone do golema to zwiększy jego szybkość ruchu i ataku. <BR> Szczególne rdzenie Golemów mogą skorzystać z tego ulepszenia w inny sposób, więc możesz sprawdzić, czy dodatkowe strony zostały dodane w Thaumonomiconie.
+#
+tc.research_name.UPGRADEEARTH=Ulepszenie Golema: Ziemia
+tc.research_text.UPGRADEEARTH=Czyni Golema Silniejszym
+tc.research_page.UPGRADEEARTH.1=Ta aktualizacja będzie zwiększenie udźwig golema. Każde ulepszenie zwiększa limit, między 4 a 16 (bazowego limitu udźwigu).<BR>Dodatkowo zwiększa obrażenia fizyczne i szybko zbierania materiałów lub wykonywania zadania zależnych od brutalnej siły. <BR> Poszczególne rdzenie Golemów mogą skorzystać z tego ulepszenia w inny sposób, więc możesz sprawdzić, czy dodatkowe strony zostały dodane do Thaumonomiconu.
+#
+tc.research_name.UPGRADEFIRE=Ulepszenie Golema: Ogień
+tc.research_text.UPGRADEFIRE=Czyni twojego golema rozpalonym
+tc.research_page.UPGRADEFIRE.1=Ta aktualizacja zwiększa ekwipunek golema o 2 sloty, dzięki czemu można dodać, wiecej elementów które mają być filtrowane lub sortowane. <BR> Ataki wręcz golema podpalają cel. <BR> Poszczególne rdzenie Golemów może skorzystać z tego ulepszenia w inny sposób , więc możesz sprawdzić, czy dodatkowe strony zostały dodane do Thaumonomiconu.
+#
+tc.research_name.UPGRADEWATER=Ulepszenie Golema: Woda
+tc.research_text.UPGRADEWATER=Czyni Golema Berdziej Spostrzegawczym
+tc.research_page.UPGRADEWATER.1=Ta aktualizacja zwiększa pole widzenia większości golemów umożliwiając im dalsze podróże do wyonywania swoich zadań. <BR> Także zwiększa się zasięg i dokładność ataków dystansowych. <BR> Poszczególne rdzenie Golemów może skorzystać z tego ulepszenia w inny sposób, więc możesz sprawdzić, czy dodatkowe strony zostały dodane do Thaumonomiconu.
+#
+tc.research_name.UPGRADEORDER=Ulepszenie Golema: Porządek
+tc.research_text.UPGRADEORDER=Czyni golema bardziej zorganizowanym
+tc.research_page.UPGRADEORDER.1=To ulepszenie umożliwia golemom określać różne kolory bloków oznaczonych dzwonkiem. To pozwala na większą kontrolę nad tym, co robią i gdzie to robią. <BR> To ulepszenia odblokowuje również pewne cechy niektórych rdzeni golemów dając im większe możliwości działania. <BR> Szczególne rdzenie Golemów mogą skorzystać z tego ulepszenia w inny sposób , więc możesz sprawdzić, czy dodatkowe strony zostały dodane do Thaumonomiconu.
+#
+tc.research_name.UPGRADEENTROPY=Ulepszenie Golema: Entropia
+tc.research_text.UPGRADEENTROPY=Czyni golema kolczastym...i puchatym
+tc.research_page.UPGRADEENTROPY.1=Golemy wyposażone w to ulepszenie kłują wrogów.<BR> Ulepszenie to czyni golema także nieco mniej wymagającym. Na ogół oznacza to, że jeśli mają zadanie do filtrowania pewnego typu sztabki miedzi (na przykład) będą sprawdzać wszystkie elementy, które liczą się jako sztabki miedzianych -.Nie tylko specyficznie określone sztabki <BR> Poszczególne rdzenie mogą skorzystać z ulepszenia w inny sposób, więc możesz sprawdzić, czy dodatkowe strony zostały dodane do Thaumonomiconu.
+#
+tc.research_name.TINYHAT=Małe Czapki
+tc.research_text.TINYHAT=Chronią golema przed słońcem
+tc.research_page.TINYHAT.1=Ten mały kapelusz to idealne akcesorium dla każdego golema. Nie tylko jest to stylowy i ładny, ale każdy golem ktory go  nosi ma większe zdrowie i witalność.
+#
+tc.research_name.TINYFEZ=Małe Fezy
+tc.research_text.TINYFEZ=...Też Fajne!
+tc.research_page.TINYFEZ.1=To dziwne nakrycia głowy wydaje się wypełniać golemy niezwykłą witalnością, co pozwala na naprawę szkód w znacznie szybszym tempie,
+#
+tc.research_name.TINYBOWTIE=Małe Muszki
+tc.research_text.TINYBOWTIE=...Fajne !
+tc.research_page.TINYBOWTIE.1=Muszka jest obowiązkowa dla każdego podróżującego golema wypełnia go dodatkową energią, zwiększając szybkość.
+#
+tc.research_name.TINYGLASSES=Małe Okulary
+tc.research_text.TINYGLASSES=...Żeby Lepiej Cie Widzieć
+tc.research_page.TINYGLASSES.1=Golemy są krótkowzroczne, a te okulary łagodzą tę słabość do pewnego stopnia.
+#
+tc.research_name.TINYDART=Wyrzutia Pocisków
+tc.research_text.TINYDART=Małe ale bolesne
+tc.research_page.TINYDART.1=Ten wyrzutnia poskiów może być dołączona tylko do golemów bojowych. To nie jest tak potężna podstawowego atak golema, ale daje golemom ograniczonym do walki wręcz możliwośc do atakowania wrogów na dystans
+#
+tc.research_name.TINYVISOR=Przyłbica
+tc.research_text.TINYVISOR=Dziękuje za twoją pomoc
+tc.research_page.TINYVISOR.1=Ta metalowa osłona daje golemom bojowym niewielką ilość dodatkowego pancerza. Będzie on również zapewniać, że wszelcy wrogowie zaatakowali przez golema wyrzucą kule doświadczenia, kiedy umrą.
+#
+tc.research_name.TINYARMOR=Żelazna Zbroja
+tc.research_text.TINYARMOR=Ciężki Orzech do zgryzienia
+tc.research_page.TINYARMOR.1=Zbroja daje golemowi większa ochrone na szkody fizyczne Niestety dodatkowa ochrona jest w cenie, bo ciężkie żelazo spowalnia golemy
+#
+tc.research_name.TINYHAMMER=Ręczna Buława
+tc.research_text.TINYHAMMER=Czas Na Atak
+tc.research_page.TINYHAMMER.1=Ta broń zwiększa obrażenia podstawowych ataków zadawanych przez golemy
+#
+tc.research_name.DISTILESSENTIA=Destylacja Esencji
+tc.research_text.DISTILESSENTIA=Zbiory Esencji
+tc.research_page.DISTILESSENTIA.1=W przyszłości będziesz miał potrzebe łatwego dostępu do wszytkich aspektów-.. Nie tylko pierwotnych aspektów z różdżki<BR> Korzystając z podstawowych zasad alchemii odkryłeś sposób rozkładania obiektów i przekształcenie ich w Esencje<BR> Pierwszy Krok tego procesu wymaga§lPieca Alchemicznego§r.Piec alchemiczny działa podobnie do normalnego pieca przez spalanie węgla do produkcji ciepła, ale zamiast do wytapiania rudy metali, rozkłada przedmioty do płynnej surowej, nieprzetworzonej Esencji.
+tc.research_page.DISTILESSENTIA.2=Kolejnym krokiem w procesie jest podjęcie płynnej esencji i destylowanie jej za pomocą §r§lAstralnego Alembiku. Aby alembiki działały musza być umieszczone na szczycie pieca alchemicznego. Essentia powoli zostanie wciągnięta do alembiku i podzieli się na indywidualne aspekty.<BR> Jeśli piec alchemiczny jest zasilany przez alumentum, to proces destylacji jest znacznie szybszy. <BR> Możesz umieścić do 5 różnych alembików górze pojedynczego pieca. <BR> Esencje można następnie wyciągnąć z alembika używając na nim flakonu.
+#
+tc.research_name.JARLABEL=Oznaczone Słoje i etykiety
+tc.research_text.JARLABEL=Przechowywanie Esencji
+tc.research_page.JARLABEL.1=Esencja może być przechowywana w §lOznaczonych Słojach§r.<BR>Oznaczone Słoje mogą być umieszczone w świecie i są w stanie przechowywać Esencje praktycznie w nieskończoność. Czary umieszczone na słoikach sprawiają że również dodanie lub wydobywania Essentia jest proste.<BR>Słoiki ustawione pod wylewką alembika zostaną automatycznie wypełnione. Mogą być również napełnianie i opróżnianie przy użyciu flakonu. <BR> Co więcej sa one dosonałe do  przechowywania dżemów i konfitur.
+tc.research_page.JARLABEL.2=Nasiskanie na alembiki podczas skradania opróżnia je. <BR> Dopóki słój zawiera jakąś esencje, można nakleić na niego §l Etykiete§r.<BR> Etykieta będzie "znakiem".że w słoiku może być przechowywany tylko ten rodzaj esencji który jest aktuanie w środku<BR> Możesz usunąć etykietę klikając pustą ręką na boku słoika zawierającego etykietę. Uważaj, aby nie klikać podczas skradania. Kliknij na jakąkolwiek inną strony, jeśli słoik jest pusty.
+tc.research_page.JARLABEL.3=Możesz umieścić etykietę w craftingu z flakonem z esencją po umieszczeniu jej flakon zostanie zablokowany tylko dla tego aspektu który jest w środku. Esencja użyta w przepisie nie jest zużywana. <BR> Umieszczenie jej na wypełnionym słoiku zmieni typ Essencji w słoiku. <LINE> Etykieta może być zdjęta umieszczając flakon na stole craftingowym.
+#
+tc.research_name.INFERNALFURNACE=Piekielny Piec
+tc.research_text.INFERNALFURNACE=Niewystarczająco Gorący ?
+tc.research_page.INFERNALFURNACE.1=Dzięki wykorzystaniu surowców zawierających §cIgnis§0 stworzono bardzo wydajny piec z obsidianu i netherowych cegieł który nie wymaga opału. Jest tak skuteczny że czasami będzie produkował dodatkowe sztabki lub inne przedmioty.<BR>Chociaż piec jest powolny to może pobierać moc z §cIgnis§0 aby przyśpieszyć przetapianie. Można to zrobić poprzez umieszczenie obok §cIgnis§0  z przodu pieca,w odległości max 10 bloków. Na szczęście esencja przejdzie te długą drogę.
+tc.research_page.INFERNALFURNACE.2=Należy również zauważyć, że od czasu do czasu trochę Flux ucieka do środowiska. <BR> Elementy, które chcesz przetopić muszą zostać wrzucone do górnego otworu w piecu i będą wypadac z przodu.
+#
+tc.research_name.BELLOWS=Astralne Miechy
+tc.research_text.BELLOWS=Podsycanie Płomieni
+tc.research_page.BELLOWS.1=Astralny Mich wykonuje taką samą funkcję, jak jego ziemski odpowiednik, jedyną różnicą jest to, że Astralny miech automatycznie pompuje nieskończony strumień powietrza. <BR> Podłączenie go do Piekielnego pieca dało kilka ciekawych wyników. Efektem podania powietrza jest nie tylko przyśpieszenie przetapiania, ale powoduje,też że sprzetapianie jest dużo czystsze, mniejsza szansa na pojawienie się flux a większa szansa na dodatkowe premię przy przetapianiu
+tc.research_page.BELLOWS.2=Mogą być również podłączone do pieców zwykłych lub alchemicznych, aby zwiększyć ich prędkość. <BR> Możliwe jest również, aby podłączyć je do tygli, aby skrócić czas potrzebny na doprowadzenie wody do wrzenia.<BR>Sam możesz odkryć wiele jego zatosowań.
+#
+tc.research_name.ARCANESTONE=Astralny Kamień
+tc.research_text.ARCANESTONE=Magicznie Wzmocniony Materiał Budowlany
+tc.research_page.ARCANESTONE.1=Astralny Kamień jest podstawowym budulcem dla wielu skomplikowanych mistycznych konstruktów.To normalny kamień, który został napiętnowany żywiołem ognia i wzmocniony żywiołem ziemi.
+#
+tc.research_name.INFUSION=Infuzna
+tc.research_text.INFUSION=Mistyczna Fuzja
+tc.research_page.INFUSION.1=Astralne rzemiosło i alchemia jest ograniczona.Aby stworzyć mistyczne rzeczy potrzebne jest coś lepszego <BR>Magiczna Infuzja jest proces stapiania obiektu obiekt z magiczną energią i właściwościami innych obiektów. Możesz, na przykład, połączyć kamień z "Aer Vis",i płótnem i stworzyło by to bardzo jasnegy kamien. <BR> Jak to zwykle bywa w taumaturgii, nic nie jst takie proste jak się wydaje. Do nawet stworzyć kila rzeczy: Matryce runiczną, astralne piedestały i dostarczyć magię w postaci Esencji.
+tc.research_page.INFUSION.2=Właściwie umieszczona matryca runiczna znana jest jako Ołtaż Infuzyjny, można przystąpic już do tworzenia przedmiatów. <BR> Centralny na centralny piedestał pod matrycą kładziemy przedmiot który ma być stopiony. Potrzebne będzie również kilka więcej postumentów wokół ołtarza,na których można umieścić,elementy chcesz tchnąć do obiektu docelowego. Wreszcie trzeba będzie oznaczonych słoików lub podobnych pojemników z esencją posiadającą potrzebną ilośc Vis. <BR> Gdy to wszystko zostanie zebrane możesz kliknąć na Matryce runiczną różdżką, aby rozpocząć proces tworzenia. <BR> W pierwszym etapie  Esencja będzie odprowadzana
+tc.research_page.INFUSION.3=z pobliskich źródeł. Jeżeli esencja będzie za dalego stanie się coś, czego nie chcesz, co zostanie wyjaśnione na kolejnych stronach<BR>Gdy esencja jest zostanie dostarczona, to pozostałe obiekty zaczną być pobierane. Tylko wtedy gdy się to odbywa tworzenie będzie kompletne.<LINE>Infuzja nie jest pozbawiona ryzyka.Cały proces polega na wymuszeniu dostarczenia ogromnej ilości energii do jednego obiektu. Casami dzieją się dziwne rzeczy. <BR> Zazwyczaj jeden z obiektów fuzyjnych zostaje
+tc.research_page.INFUSION.4=strącony z piedestału, lub pojawia się Flux, ale są też spotykane bardziej katastroficzne wybadki.<BR>Jeżeli rzemiosło trwa za długo z powodu braku Vis lub niektórych elementów tym większa szansa że coś się stanie. <BR> te efekty można zmniejszyć różnymi metodami. Po pierwsze trzeba zachować całą strukturę fuzyjną możliwie jak najbardziej symetryczną - zwróć baczną uwagę, gdzie umieszczasz piedestały i upewnij się, że są równo z innymi piedestałami po przeciwnej stronie ołtarza. Podczas wprowadzania do nich elementów fuzyjne może chcesz je również zrównoważyć. Można takźe umieścić przybory okultystyczne wokół
+tc.research_page.INFUSION.5=ołtarza w symetrycznej formacji (takie rzeczy jak świece, czaszki, kryształy itp.). To będzie miało wpływ na zmniejszenie niestabilności.<IMG>thaumcraft:textures/misc/research5.png:128:0:128:136:1</IMG>
+#
+tc.research_name.JARBRAIN=Mózg W Słoju
+tc.research_text.JARBRAIN=Obrzydliwie Szczelny
+tc.research_page.JARBRAIN.1=-Wrzuć mózg zombie do słoika<BR>. Dodaj kilka oczu pająka i wody<BR>. Wymieszać delikatnie różdżką myślać o ciemnych rzeczach<BR>Jeśli zastosujesz przepis dokładnie powinieneś mieś teraz częściowo animowany. i pełni złośliwy mózg zombie. <BR>Choć zachował część głodu który posiadał jako zombie i jednocześnie nie może spożywać mózgów, to nadal cieszy się z jedzenia myśli i doświadczeń tych, którzy zginą w pobliżu. Wstrząsając słojem odda niektóre swoje myśli na twój użytek.
+#
+tc.research_name.HOVERHARNESS=Thaumostatyczna Uprząż
+tc.research_text.HOVERHARNESS=To Ptak...
+tc.research_page.HOVERHARNESS.1=W Końcu udało Ci się odryć tajemnice lotu.Stworzyłeś uprząż pozwalającą podpiąć się do Pola thaumicznego czerpiąc z niego moc thaumostatyczną pozwalającą przeciwstawić się grawitacji. Możliwe, że kwanty i kwarki są być również zaangażowane w jakiś sposób. <BR> Nietypowo tylko Vis wymagane do zasilenia procesu tworzenia uprzeży. Zamiast paliwa wymaga do lotu jest surowa Energia. Wystarczy kliknąć prawym przyciskiem myszy, trzymając różdżke na słoju wypełnionym energią(potentia). <BR>Naciśniecie spacji 2 razy pozwala latać
+tc.research_page.HOVERHARNESS.2=Aktywna Uprząż stale zużywa energie.<BR>Można ulepszyć ją zaklęciem "pośpiech" aby zwiększyć szybkośc lotu.
+#
+tc.research_name.ADVANCEDGOLEM=Zaawansowane Golemy
+tc.research_text.ADVANCEDGOLEM=Myśle Że Nie Powienienem...
+tc.research_page.ADVANCEDGOLEM.1=Odkryłeś sposób na poprawę golemów na kilka drobnych, ale istotnych sposobów. <BR> Po pierwsze, golemy, które przechodzą przez ten proces są w stanie otrzymać jedno dodatkowe ulepszenie, choć może nigdy nie miegą więcej niż dwa ulepszenia jednego typu. <BR> są nieco szybsze. <BR> po trzecie, mają nieco większy zasięg wzroku. <BR> Pewna złośliwość w ich oczach to tylko twoja wyobraźnia...
+#
+tc.research_name.ARCANEBORE=Astralny Laser
+tc.research_text.ARCANEBORE=Wydobycie ewoluuje
+tc.research_page.ARCANEBORE.1=Odkryłes urządzenie zdolne do rozszerzania zasięgu mocy kopania. Jeszcze większym plusem jest fakt, że maszyna może kopac bez stałego nadzoru. Ty tylko musisz umieścić ją na specjalnie skonstruowanej podstawie, należy skierować ją w dobrą stronę różdżką i podłączyć do redstone. <BR> Astralny Laser wymaga dwóch rzeczy do działania.Pierwszym z nich jest umieszczona w środkowym gnieździe kilof a w lewym gnieździe soczewka "Wykop". Wszelkie zaklęcia stosowane na soczewce i kilofie zwiększa funkcje lasera.
+tc.research_page.ARCANEBORE.2=<BR>Umieszczenie słoika z esencją perditio gdzieś za otworem (w odległości 5 bloków) znacznie przyspieszy tempo kopalnia. <BR> Astralny Laser może być umieszczony jedynie nad lub pod Astralną podstawą lasera. Wszelkie przedmioty wydobywane będa wyrzucana z podstawy w kierunku w którym jej rura jest skierowana.
+tc.research_page.ARCANEBORE.3=Kierunek może być zmieniony różdżką.Do otworu można podłączyć skrzynie.
+#
+tc.research_name.LEVITATOR=Astralny Lewitator
+tc.research_text.LEVITATOR=Następna rzecz do latania
+tc.research_page.LEVITATOR.1=<BR> Po umieszczeniu lewitator podnosi każdy przedmiot lub kreaturę nad nim do 10 bloków w powietrze.Skradanie spowoduje że rzecz lub gracz zostanie powoli opuszczony. <BR> Każdy lewitator umieszczony na następnym zwiększa wysokośc na jaką może cię umieść  o 10 bloków, więc stos trzech może podnieść podmioty do 30 bloków.<BR>Lewitator można wyłączyć podłączając go do redstone.
+#
+tc.research_name.ARCANEEAR=Astralne ucho
+tc.research_text.ARCANEEAR=Ciiiii. Słyszysz To ?
+tc.research_page.ARCANEEAR.1=Astralne ucho jest urządzeniem, które jest w stanie wykryć dźwięk emitowany z okolicznych bloków dzwiękowych. Jeśli usłyszy dzwięk to emituje krótki impuls Redstone.<BR>Astralne ucho dostraja się w sposób identyczny, ale pamiętaj sygnał zależy od tego na czym stoi
+#
+tc.research_name.MIRROR=Magiczne Lustro
+tc.research_text.MIRROR=Po Drugiej Stronie Lustra
+tc.research_page.MIRROR.1=Jesteś teraz w stanie zaczarować parę magicznych luster, które działają jako drzwi do pustki pomiędzy światami. Cokolwiek wrzucisz do jednego lustra pojawi się w drugim<BR>Niestety lustra są niezwykle wrogo nastawone do istot śmiertelnych, takich jak Ty, więc stosowanie tych luster do transportu żywych stworzeń nie jest jeszcze możliwe.. <BR> aby połączyć parę tych magicznych luster wystarczy umieścić jedno z nich w wybranej lokalizacji. Następnie kliknij prawym przyciskiem myszy z innym lustrem w ręku
+tc.research_page.MIRROR.2=Następnie można umieścić drugie gdziekolwiek chcesz i przedmioty wrzucone w jedno zostaną wyrzucone w drugim. <BR> Lustra mogą być połączone jedynie w parach, więc gdy oba znajdują się w świecie i są w stanie przesyłac elementy, to trzecie lusto nie może zostać dołączone. Po podniesieniu lustra zapamięta ostatnie sparowane lustro, dzięki czemu można łatwo je przenieść bez konieczności ponownego łączenia. Jednakże, podczas gdy jedno z powiązanych luster jest zbieranie, może łatwo ponownie połączyć się z innym. <BR> Tranport elementów nie jest wolny. Wymaga źródła "ITER" w pobliżu i każdy stack przerzucony przez lustro zużywa 1 Esencje.
+#
+tc.research_name.MIRRORHAND=Magiczne Lusterko
+tc.research_text.MIRRORHAND=Osobiste Odbicie
+tc.research_page.MIRRORHAND.1=To magiczne lusterko ma takie same funkcje jak duże lustra. Wystarczy włożyć przedmiot w szkło, a one wypadają z połączonego lustra. <BR> Po prostu kliknij prawym przyciskiem myszy, trzymając połączone lusterko i będziesz w stanie wkładać przedmioty w ekwipunku do lustra, aby je transportować . <BR> lusterko może być związane z lustrem, które jest już połączona z innym. <BR> należy zauważyć, że lusterko może jedynie wysłać przedmioty, a nie je odbierać.
+#
+tc.research_name.NODEJAR=Węzeł W Słoju
+tc.research_text.NODEJAR=Dla Thaumaturgów W Podróży
+tc.research_page.NODEJAR.1=Oznaczone słoje okazały się zdolne do przechowywania wszelkiego rodzaju przyziemnych i mistycznych rzeczy, i uważasz, że odkryłeś kolejne zastosowanie dla nich.Przechowywanie Węzłów Aury <BR> Przez budowę dużej wersji słoika wokół węzła i klinanie na nim różdżką,węzeł będzie uwięziony wewnątrz konstrukcji, która szybko skurczy się do bardziej rozsądnego rozmiaru. Słój można następnie bezpiecznie podnieść i przenieść, ale początkowe zaklęcie zbioru ma bardzo duże szanse na zniszczenie węzeł. <BR> Uwięziony węzeł utrzymuje się w zawieszeniu i nie regeneruje vis, ani nie można z nich pobierać Vis.
+tc.research_page.NODEJAR.2=Jest możliwe, aby uwolnić węzeł ze słoika umieszczając go w świecie i klikając na nim różdżką .Słój zostanie zniszczony podczas tego procesu.
+#
+tc.research_name.PAVETRAVEL=Kostka Brukowa Podróży
+tc.research_text.PAVETRAVEL=Ułatwia Twoją Podróż
+tc.research_page.PAVETRAVEL.1=Poprzez zmianę struktury astralnego kamienia jesteś w stanie stworzyć kostkę brukowa, która pozwala wyżej skakac i szybciej biegać podczas chodzenia po niej. 
+#
+tc.research_name.PAVEWARD=Oznaczona Kostka Brukowa
+tc.research_text.PAVEWARD=Prowadzenie Rzeczy
+tc.research_page.PAVEWARD.1=Odkryłeś sposób tworzenia oznaczonej kostki brukowej, która uniemożliwia większosci stworzeń jej przekraczanie. <BR> Należy zauważyć, że te kostka nie jest w 100% niezawodna i nie może powstrzymać innych graczy od wejścia na obszar, ale odgradzają cięod większości zła. Golemy także nie mogą jej przekraczać. <BR> Dla najlepszych efektów należy odgrodzić obszar który ma być chroniony od swiata zewnętrzego <BR> Aktywny sygnał Redstone będzie wyłączyć tę blokadę.
+#
+tc.research_name.WANDPED=Piedestał Ładowania Różdżki
+tc.research_text.WANDPED=Automatyczne Ładowanie Różdżki
+tc.research_page.WANDPED.1=Podróżowanie po okolicy, aby naładować swoje różdżki jest dobre, ale automatyczny sposób byłby znacznie lepszy <BR> Ten specjalnie spreparowany piedestał właśnie to robi -. Każda różdżka umieszczona w nim automatycznie wyciąga vis z okolicznych węzłów. <BR> Węzły nie zostaną w pełni osuszone, chyba że różdżka jest wykonana z żelaza lub kija
+#
+tc.research_name.WANDPEDFOC=Soczewka Ładowania Różdżki
+tc.research_text.WANDPEDFOC=Do Wszytkiego 
+tc.research_page.WANDPEDFOC.1=W podróżach odkryłeś kilka węzłów, które zawierają aspekty złożone, ale jak dotąd nie było sposobu, by wykorzystać to bogate źródło vis. Aż do teraz. <BR>Soczewka może być umieszczona na szczycie piedestału ładowania różdżki, który pozwoli każdej różdżce uszczknąć złożone vis z okolicznych węzłów. Niestety każdy punkt złożonego vis dzieli się na jeden punkt pierwotny vis a cały nadmiar energii jest tracony. Jednak jest to dobry początek i na pewno można odjesz lepsze sposoby dostępu do tego zasobu.
+#
+tc.research_name.ETHEREALBLOOM=Eteryczny Kwiat
+tc.research_text.ETHEREALBLOOM=Oczyszczający Kwiat
+tc.research_page.ETHEREALBLOOM.1=Migoczące Liście często rosną w cieniu swojego mistycznego sąsiada Srebrnego Drzewa, ale ma własne magiczne właściwości.<BR> Tak jak Srebrne Drzewo, Kwiaty migoczącego liścia mają właściwości oczyszczające, które są uśpione. Musisz znaleźć sposób, by obudzić te właściwości i przekształcić go w Eteryczny Kwiat<BR> Eteryczny Kwiat kwitnie powoli, ale pewnie, przywraca ziemię uszkodząną przez środki do dawnej świetności. Jest to zaraza znana jako skaza. Mimo, że nie można zwalczać skazy bezpośrednio, kilka skażonych narośli może przetrwać poza ich naturalnym środowiskiem bardzo długo i często umierają ponownie.
+tc.research_page.ETHEREALBLOOM.2=Kwiat oczyszcza jedynie ziemię skąpaną w świetle obecnym w zasiągu do około 8 bloków.<BR> Eteryczne Kwiaty są dość kruche i ich niszczenie zmienia je z powrotem do kwiatka migoczącego liścia.
+#
+tc.research_name.PECH=Pech
+tc.research_text.PECH=Dziwne Kreatury
+tc.research_page.PECH.1=Te dziwne humanoidy można znaleźć wszędzie tam, gdzie granica pomiędzy światami jest najcieńsza.Zdaje się że mnożą się w miejscach przesiąkniętych magiczną energią. <BR> Nie pozwól się oszukać ich małemu wzrostowi. Mają niesamowitą siłę i mogą nosić rzeczy wiele razy cięższe od wagi własnego ciała. <BR> Pechy nie są agresywne, ale kiedy się zdenerwowują całą grupą dopadną atakującego. W normalnych warunkach unikają ludzi za wszelką cenę. <BR> Pechy są chciwe, i nic nie stanie między nimi a łupem 
+tc.research_page.PECH.2=Mówi się, że jeśli nakarmisz to chciwe istoty to możliwe że zaprzyjaźnisz się z jednym z nich. Zaprzyjaźnione często noszą cudowne obiekty,i mogą dać ci część z nich. <BR> Należy zaznaczyć, że takie "przyjaźnie" rzadko trwają długo.<BR><IMG>thaumcraft:textures/misc/research5.png:128:136:112:120:.75</IMG>
+#
+tc.research_name.INFUSIONENCHANTMENT=Zaklęcia Infuzyjne
+tc.research_text.INFUSIONENCHANTMENT=Zeklinanie z Esencją
+tc.research_page.INFUSIONENCHANTMENT.1=Przez wieki magowie i taumaturdzy zaklinali broń, narzędzia i zbroje łącząc przedmioty z własną energia życiową. Chociaż proces jest skuteczny i żmudny to wyniki są całkowicie nie do przewidzenia. Twoje odkrycie infuzji może odkryć rozwiązanie obu tych problemów. <BR> Odkryłeś sposób by zaczarować przedmioty na ołtażu infuzyjnym. Wystarczy umieścić przedmiot, który chcesz zaczarować na centralnym piedestał i dostarczyć odpowiednie składniki i esencje.
+tc.research_page.INFUSIONENCHANTMENT.2=Wymaga to również pewną część życia w postaci doświadczenia, ale znacznie mniejszą niż byłoby to normalnie wymagane podczas zaklinania. To doświadczenie jest wyciągane z ciebie więc w pobliżu ołtarza infuzji nikogo nie może być więc należy zachować ostrożność <BR>Koszty Essencji i doświadczenia wymienione w następujących recepturach są dla pierwszego poziomu czarów. Aby Zaczarować przedmiot na wyższe poziomy, wystarczy przeprowadzić proces infuzji ponownie - może to być powtarzane, aż wymagane zaklęcie osiągnął maksymalny możliwy poziom. koszt esencji i doświadczenia jest mnożony przez poziom zaklęcia jakie tworzysz, więc zaklęcie poziomu II kosztuje dwa razy tyle, co I.
+tc.research_page.INFUSIONENCHANTMENT.3=Dodatkowe koszty mogą również wymagane, jeśli element zawiera zaklęcia, inne niż to, które jest aktualnie wykonywanie. Koszt ten jest zwykle około 10% za poziom zaklęcia. Miecz z zaklętym ognie I zawierającym Ostrość III będzie kosztować 30% więcej. <BR> Niestabilność zwiększa także ogólna liczba zaklęć na zaklęcie obiektów.
+#
+tc.research_name.ARCANELAMP=Astralne Lampy
+tc.research_text.ARCANELAMP=Duże Źródło Światła
+tc.research_page.ARCANELAMP.1=Ta Astralna Lampa może być przymocowana do ściany, podłogi i sufitu oraz zapewnia silne i stałe światło. <BR> Dodatkowe źródła światła mogą również pojawić się do 16 bloków dalej, gdzie poziom oświetlenia spadnie poniżej przyjetego "bezpiecznego" poziomie. Pamiętaj:.. Tylko Ty możesz zapobiec epidemii zombie <BR> Te wtórne źródła światła znikną wkrótce po usunięciu lampy <LINE> Na pewno pokażą się nowe zastosowania dla lampy więc zakladaj tu kiedy coś odkryjesz.
+tc.research_page.ARCANELAMP.2=           §nAstralny Laser§r<BR>Po podłączeniu do podstawy astralnego lasera, Astralna lampa zyska dodatkową umiejętność: Będzie wyciągnąć esencje Lux z pobliskiego źródła, aby oświetlić tunel wykopaliska laseru <BR>1 punkt lux tworzy pojedynczy punkt światła. Te źródła światła nie zniknią po usunięciu lampy.
+#
+tc.research_name.SALT=Salis Mundus
+tc.research_text.SALT=Wystarczy Szczypta
+tc.research_page.SALT.1=Salis Mundus znana bardziej jako sól thaumaturga, jest tworzona przez kruszenie kryształów vis i zmieszanie ich z substancjami naturalnie bogatymi w magię.<BR> Tak jak jego ziemski odpowiednik, sól taumaturga dodaje smaku (mówiąc metaforycznie) do każdej magicznej receptury lub Wzóru. Jest to silny czynnik wiążący może połączyć najróżniejsze elementów magiczne razem.<BR> Istnieje szereg substancji, które mogą być zmieszane z rozdrobnionymi kryształami do tworzenia Salis Mundus.
+#
+tc.research_name.TUBES=Rura Esencji
+tc.research_text.TUBES=Transport Esencji
+tc.research_page.TUBES.1=Odkryłeś kilka sposobów do transportu esencji, ale żaden z nich nie okazał się przydatny do alchemicznej operacji na dużą skalę. Aż do teraz <BR>Odblokowałeś sposób stworzenia stabilnej i względnie szczelnej rury. Podczas gdy przyziemne chemikalia mogą być transportowane w szkle, niektóre rodzaje Essenci po prostu przelatuje przez nią. Owijając szybę w żelazo i traktując ją rtęcią udało ci się chronić ją przed nawet najbardziej lotnymi rodzajami Essencji.Złote wykończenia  rur sprawiają, że ładnie wygląda.
+tc.research_page.TUBES.2=Rury mogą być podłączone do wszelkiego rodzaju urządzeń alchemicznych, choć oznaczone słoje i alembiki to ich główne cele. <BR> Esencja przepływa przez rury, gdy jest podłączone do nich coś, do czego może wlecieć np Oznaczone Słoje. Oznaczone słoje mają znacznie większą wyciądania - tak silną że będą one wyciągnąć Esencje z nieoznakowanych słoików <LINE> zawór esencji działa podobnie do normalnych rur, z wyjątkiem że może być wyłączony ręcznie lub sygnałem Redstone.. Kiedy to zrobisz przepływ esesncji zostanie zatrzymany.
+#
+tc.research_name.CENTRIFUGE=Wirówka Alchemiczna
+tc.research_text.CENTRIFUGE=Zbiera inne rzeczy
+tc.research_page.CENTRIFUGE.1=Wirówka jest cudownym alchemicznym wynalazkiem, który pozwala przełamać esencje na jej części składowe. <BR> Kiedy związek esencji płynie do wirówki z dołu będzie wolno dzielić się na pierwotną i złożoną esencje. Tworzy się tylko pkt każdego ze składników esencji po podziale.<BR> Otrzymaną esencje należy wyciągnąć z góry wirówki.
+#
+tc.research_name.TRAVELTRUNK=Podróżujący Bagaż
+tc.research_text.TRAVELTRUNK=Mobilna Przechowalnia
+tc.research_page.TRAVELTRUNK.1=Przedłużenie badań nad golemami doprowadziło odkrycia użytecznego towarzysza każdego taumaturga w podróży:. Podróżujący Bagaż <BR> To drewniana klatki skrzynia skacząca za mistrzem, zawsze gotowa, aby zapewnić wygodne miejsce do przechowywania i odbierania czegokolwiek.<BR>Podróżujący Bagaż jest twardy i może przyjąć dużą ilośc obrażeń. Jest wysoce odporna na ogień i nie mogą być uszkodzona przez upadek <BR> Bagaż chodzi za mistrzem wszędzie. Nawet do odległych wymiarów. Aby przestał za tobą chodzić musisz wyłączyć te funkcje w jego gui
+tc.research_page.TRAVELTRUNK.2=co sprawi, że pozostanie w aktualnej pozycji. <BR> Podróżujący Bagaż powoli leczy się w czasie, ale można go też karmić wszelkiego rodzaju żywnościa, aby przyspieszyć ten proces.<BR> Można go zniszczyć jak normalnego golema klikając na nim lewym przyciskiem myszy z dzwonkiem w ręku.Wtedy wypadną z niego wszytkie przedmioty.Shift i kliknięcie spowoduje to, że rówież ulepszenia wypadną ale mogą też przepaść <BR> Może przyjąć jedną aktualizację jak normalnemu golemowi, ale one dają skrzynce unikalne zdolności. Zobacz na następujących stronach co dają odpowiednie ulepszenia.
+tc.research_page.TRAVELTRUNK.UAI=    §nUlepszenie Golema: Powietrze§r<BR>Ulepszenie to sprawia że bagaż porusza się szybciej
+tc.research_page.TRAVELTRUNK.UEA=    §nUlepszenie Golema: Ziemia§r<BR>Ulepszenie to sprawia że bagaż może nosić więcej rzeczy.
+tc.research_page.TRAVELTRUNK.UFI=    §nUlepszenie Golema: Ogień§r<BR>Ulepszenie to sprawia że bagaż może bronić mistrza przed atakiem
+tc.research_page.TRAVELTRUNK.UWA=    §nUlepszenie Golema: Woda§r<BR>Ulepszenie to sprawia że oddziaływać na bagaż może tylko mistrz, dodatkowo bagaż jest bardziej odporny na wszystkie rodzaje obrażeń
+tc.research_page.TRAVELTRUNK.UOR=    §nUlepszenie Golema: Porządek§r<BR>Ulepszenie to sprawia że bagaż zachowuje swoje rzeczy po zniszczeniu dzwonkiem.
+tc.research_page.TRAVELTRUNK.UEN=    §nUlepszenie Golema: Entropia§r<BR>Ulepszenie to sprawia że bagaż automatycznie podnosi okoliczne przedmioty
+#
+tc.research_name.LAMPGROWTH=Lampa Wzrostu
+tc.research_text.LAMPGROWTH=Zachęca do wzrostu
+tc.research_page.LAMPGROWTH.1=W przeciwieństwie do astralnej lampy, z którego jest wykonana, Lampa wzrostu nie rzuca wiele światła, chyba że jest ona wyposażona Esencje Herba. Postawiaona sprawia że rośliny w jej najjaśniejszym świetle rosną szybciej niż normalnie. <BR> Esencje można wprowadzać do lampy albo umieszczając słój w pobliżu lub bezpośrednio mocując lampe do układu rur esencji. Rury są nieco bardziej wydajne i będzie jeden pkt esencji będzie zużywany 10% dłużej.
+#
+tc.research_name.JARVOID=Słój Próżniowy
+tc.research_text.JARVOID=Więcej Esencji? Niemożliwe!
+tc.research_page.JARVOID.1=Próżniowe słoje funkcjonują tak samo jak normalne oznaczone słoje z jedną istotną różnicą - nawet wtedy, gdy pełne są jeszcze w stanie zaakceptować esencje, ale nadmiar jest po prostu tracony. To pozwala, aby zawsze mieć jakaś esencje tego typu dostępną, ale pozbywać się nadwyżki, którą moga zrobić.<BR> Tak jak normalne słoje,na słoje próżniowe mozna zakładać etykiety, ale ich ssanie z etykietą jest mniejsza niż normalnego oznakowanego słoja (o połowe nieoznaczonego i oznaczonego słoikia).
+#
+tc.research_name.TUBEFILTER=Rura Filtrująca Esencje
+tc.research_text.TUBEFILTER=Co Chesz, Kiedy Chcesz
+tc.research_page.TUBEFILTER.1=Rury Filtrujące Esencje pracują jak normalne rury, oprócz tego, że jest możliwe, aby oznaczyć je etykietami. Gdy są oznaczone to może przepływać przez nie tylko oznaczona esencja<BR> Shift-kliknięcie na nich pustą ręką usuwa etykietę.
